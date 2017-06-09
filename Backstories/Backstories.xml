@@ -2493,152 +2493,152 @@
 	<MachineFixer97>
 		<title>Máquina fijadora</title>
 		<titleShort>Fijador</titleShort>
-		<desc>NAME era experto en tratar problemas mecánicos, siempre y cuando el problema no implicara la cocina. Después de una vida pasada alrededor de maquinaria peligrosa y sustancias químicas inflamables, aprendió a recuperarse muy bien. A pesar del dolor, nunca aprendió a disgustar al fuego.</desc>
+		<desc>NAME era experto en arreglar problemas mecánicos, siempre y cuando el problema no estuviera en la cocina. Después de pasar su vida rodeada de maquinaria peligrosa y sustancias químicas inflamables, aprendió a recuperarse muy bien. A pesar del dolor, nunca aprendió a disgustar al fuego.</desc>
 	</MachineFixer97>
 	<StreetUrchin39>
 		<title>Pilluelo de la calle</title>
 		<titleShort>Timador</titleShort>
-		<desc>Después de huir de casa, NAME tuvo que vivir en las calles. Ella creció rápido, y aprendió temprano que tenía que averiguar cómo engañar a la gente para conectarse con ella.</desc>
+		<desc>Después de huir de casa, NAME tuvo que vivir en las calles. HECAP creció rápido y aprendió rápidamente que tenía que averiguar cómo engañar a la gente para ganarse la vida.</desc>
 	</StreetUrchin39>
 	<SpaceMerchant61>
 		<title>Comerciante espacial</title>
 		<titleShort>Mercader</titleShort>
-		<desc>Como parte de un estilo de vida interplanetario 'freelance', NAME trató de dominar a sus intereses románticos tanto como sus adversarios de negocios. Cuando ella no tenía su propia nave para volar, ella trabajaba alquilando naves.</desc>
+		<desc>Como parte de un estilo de vida 'freelance' interplanetario, NAME trató de dominar tanto intereses amorosos como a sus rivales en los negocios. Cuando HECAP no tenía su propia nave para volar, HECAP trabajaba alquilando naves.</desc>
 	</SpaceMerchant61>
 	<ChildChemist73>
 		<title>Niño químico</title>
 		<titleShort>Químico</titleShort>
-		<desc>Un niño de medio mundo, NAME se fijó en saber exactamente cómo funcionaba todo. HECAP coleccionó objetos raros y realizó experimentos peligrosos con ellos. Profundizando en estos experimentos, se aisló del resto del mundo. HECAP sólo dejaba su área de investigación para recoger más materiales.</desc>
+		<desc>Un niño de medio mundo, NAME se fijó en saber exactamente cómo funcionaba todo. HECAP coleccionó objetos raros y realizó experimentos peligrosos con ellos. Profundizando en estos experimentos, se aisló del resto del mundo. HECAP sólo abandonaba su área de investigación para recoger más materiales.</desc>
 	</ChildChemist73>
 	<BeastSlayer8>
-		<title>Asesino de la bestia</title>
-		<titleShort>Asesino</titleShort>
-		<desc>NAME viajó entre planetas, tras noticias de ataques de animales. HECAP acampó en el planeta por semanas, aprendiendo sobre su presa antes de golpearla. HECAP más disfrutó de la caza Thrumbos. Como preferia trabajar solo, NAME disfrutó de la emoción de la caza, y la carne de la matanza.</desc>
+		<title>Cazabestias</title>
+		<titleShort>Cazador</titleShort>
+		<desc>NAME viajó entre planetas, siguiendo noticias de ataques de animales. HECAP acampó en un planeta durante semanas, aprendiendo sobre su presa antes de atacar. HECAP disfrutó especialmente cazando Thrumbos. Como preferia trabajar solo, NAME disfrutó de la emoción de la caza y de la matanza.</desc>
 	</BeastSlayer8>
 	<BrothelGofer60>
-		<title>Burdel gofer</title>
-		<titleShort>Gofer</titleShort>
-		<desc>Nacido en un mundo medio impulsado por vapor y en medio de un siglo de crisis económicas, NAME fue a trabajar a una edad temprana. Vendiendo su cuerpo, puliendo calzando, cosiendo - lo hizo todo. Pero él era más conocido como un gofer de burdel, entregando toda clase de afrodisíacos y productos químicos a las habitaciones de las niñas.</desc>
+		<title>Recadero de burdel</title>
+		<titleShort>recadero</titleShort>
+		<desc>Nacido en un mundo estándar impulsado por la tecnología de vapor y en medio de un siglo de crisis económicas, NAME tuvo que trabajar desde muy joven. Vendiendo su cuerpo, puliendo calzando o cosiendop, lo hizo todo. Pero él era más conocido por ser el recadero de un burdel, llevando toda clase de afrodisíacos y productos químicos a las habitaciones de las chicas.</desc>
 	</BrothelGofer60>
 	<DrugLieutenant88>
-		<title>Vendedor de drogas</title>
-		<titleShort>Distribuidor</titleShort>
-		<desc>NAME trabajó en el comercio de drogas bajo el capo Grady Loughman. Hizo que sus hombres vendieran drogas cuando era rentable, y luchaban contra los otros cárteles cuando el gobierno se acercaba. Sus habilidades sociales lo mantuvieron en la cima del juego político, y siempre tenía criados para cocinar y limpiar.</desc>
+		<title>Camello</title>
+		<titleShort>Camello</titleShort>
+		<desc>NAME trabajó vendiendo drogas bajo el mando del capo Grady Loughman. Él hizo que sus hombres vendieran drogas cuando era rentable y luchaban contra los otros cárteles cuando el gobierno se acercaba. Sus habilidades sociales lo mantuvieron en la cima de la política y siempre tenía criados para cocinar y limpiar.</desc>
 	</DrugLieutenant88>
 	<LaborCampOrphan93>
-		<title>Huérfanos del campo de trabajo</title>
+		<title>Huérfanos de campo de trabajo</title>
 		<titleShort>Huérfano</titleShort>
-		<desc>NAME perdió a sus padres en un accidente industrial y creció en un campo de trabajo de huérfanos. Los superintendentes de los campamentos trabajaban sin piedad, pero al menos ella estaba vestida y alimentada.</desc>
+		<desc>NAME perdió a sus padres en un accidente industrial y creció en un campo de trabajo de huérfanos. Los superintendentes de los campos trabajaban sin descanso, pero al menos tenía ropa y comida.</desc>
 	</LaborCampOrphan93>
 	<UrbworldEnforcer55>
-		<title>Ejecutor de Mundo Urbano</title>
-		<titleShort>Ejecutor</titleShort>
-		<desc>NAME era un ejecutor de la ley en un antiguo mundo urbano. Trataba con los peores de la humanidad, desde la protección de la codiciosa nobleza urbana en sus palacios de espiral hasta la erradicación de los cultos caníbales en los confines más profundos de la colmena subterránea.</desc>
+		<title>Verdugo de Mundo urbe</title>
+		<titleShort>Verdugo</titleShort>
+		<desc>NAME era un verdugo en un antiguo mundo urbe. Trataba con los peor de la sociedad, desde la proteger a la codiciosa nobleza urbana en sus gigantescos palacios hasta erradicar cultos caníbales en los confines más profundos de la colmena subterránea.</desc>
 	</UrbworldEnforcer55>
 	<GameFanatic49>
-		<title>Fanático del juego</title>
+		<title>Viciado</title>
 		<titleShort>Jugador</titleShort>
-		<desc>NAME era un fanático jugador que aprendió a sobrevivir en juegos de realidad virtual. Una vez, mientras intentaba probar sus habilidades en el mundo real, fue secuestrado por un científico criminal y usado como experimento. HECAP escapó, pero la experiencia se quedó con él.</desc>
+		<desc>NAME jugaba tanto a un juego que aprendió a sobrevivir en juegos de realidad virtual. Una vez, mientras intentaba probar sus habilidades en el mundo real, fue secuestrado por un científico criminal y usado como experimento. HECAP escapó, pero la experiencia lo traumatizó.</desc>
 	</GameFanatic49>
 	<ToolMechanic40>
-		<title>Mecánico de herramientas</title>
+		<title>Mecánico</title>
 		<titleShort>Mecánico</titleShort>
-		<desc>NAME era un famoso mecánico de herramientas en un mundo polvoriento. Después de su firma cerrada debido al escándalo, se unió a una tribu para sobrevivir, la elaboración de cuchillos finos y martillos, viajar y hacer frente a sus mercancías entre los asentamientos.</desc>
+		<desc>NAME era un famoso mecánico en un mundo polvoriento. Después de que su empresa cerrara debido a un escándalo, se unió a una tribu para sobrevivir. La creación de cuchillos finos y martillos, viajar y el comercio de mercancías entre asentamientos.</desc>
 	</ToolMechanic40>
 	<ClassClown20>
 		<title>Payaso de la clase</title>
 		<titleShort>Chico payaso</titleShort>
-		<desc>En los alrededores ultra-competitivos de su escuela en MundoBrillante, NAME siempre se ofreció a jugar al payaso de la clase para difundir la tensión. HECAP desarrolló un sentido de desesperación social a partir de esto, así como una apreciación de la parte artística de la comedia.</desc>
+		<desc>En los ultra-competitivos alrededores de su escuela en un Mundo brillante, NAME siempre se ofrecia para hacer el payaso en clase para relajar las tensiónes. HECAP desarrolló cierto sentido de desesperación social a partir de esto, así como a apreciar la parte artística de la comedia.</desc>
 	</ClassClown20>
 	<CraftShaper11>
-		<title>Talladora artesanal</title>
+		<title>Escultora artesanal</title>
 		<titleShort>Moldeador</titleShort>
-		<desc>NAME se encerró a sí mismo en su estudio durante años, pidiendo comida rapida para ahorrar tiempo al cocinar. Eventualmente, sus creaciones le trajeron el mayor honor en Mundo Semantico: Permiso para materializar cualquier diseño en minutos utilizando las tecnologías más avanzadas.</desc>
+		<desc>NAME se encerró a sí mismo en su estudio durante años, pidiendo comida rapida para ahorrar tiempo y no cocinar. Con el tiempo, sus creaciones le trajeron el mayor honor en Mundo Semantico: Permiso para materializar cualquier diseño en minutos utilizando la tecnología más avanzada.</desc>
 	</CraftShaper11>
 	<CrimeBossChild12>
-		<title>Niño del jefe del crimen</title>
+		<title>Niño de jefe mafioso</title>
 		<titleShort>Niño del crimen</titleShort>
-		<desc>NAME fue adoptado hijo de un notorio jefe del crimen. Se le enseñó a HECAP todas las facetas del negocio familiar, desde el contrabando hasta formas inventivas de matar. Cuando la familia fue atacada, su padre le ordenó que se escondiera en una cripto capsula de sueño largo.</desc>
+		<desc>NAME fue adoptado como hijo de un notorio jefe mafioso. HECAP fue instruído en todas las facetas del negocio familiar, desde el contrabando hasta formas originales de matar. Cuando la familia fue atacada, su padre le ordenó que se escondiera en una cápsula de criosueño.</desc>
 	</CrimeBossChild12>
 	<MercenaryLeader48>
 		<title>Líder mercenario</title>
 		<titleShort>Mercenario</titleShort>
-		<desc>Solo, NAME se propuso reconstruir el trabajo de su padre. HECAP desafió al líder de una pequeña banda de mercenarios y tomó el control, luego dirigió la banda, y secuestraron buques comerciales y robaron valiosos cargamentos. Los hombres de HISCAP se amotinaron. HECAP fue abandonado, arrestado y condenado a muerte.</desc>
+		<desc>Solo, NAME se propuso reconstruir el trabajo de su padre. HECAP desafió al líder de una pequeña banda de mercenarios y tomó el control para luego dirigir la banda, secuestrando buques comerciales y robando valiosos cargamentos. Los hombres de HISCAP se amotinaron y HECAP fue abandonado, arrestado y condenado a muerte.</desc>
 	</MercenaryLeader48>
 	<SentimentalChild27>
 		<title>Niño sentimental</title>
 		<titleShort>Buen niño</titleShort>
-		<desc>NAME era un buen niño. Cuando alguien tenía un problema, él trató de arreglarlo. Pero, siendo un niño, él no siempre tuvo éxito. Esto hirió su alma sensible. HECAP soñó con ser un soldado que lucha contra los asaltantes y los extranjeros.</desc>
+		<desc>NAME era un buen niño. Cuando alguien tenía un problema, él intentaba arreglarlo. Pero siendo un niño, no siempre tuvo éxito y esto hirió su alma sensible. HECAP soñó con ser un soldado que lucha contra los asaltantes e invasores.</desc>
 	</SentimentalChild27>
 	<SpecialForces72>
 		<title>Fuerzas especiales</title>
 		<titleShort>Especialista</titleShort>
-		<desc>Dame una razón para matar, ¡una buena razón! Markus era un soldado y un experto - tan hábil que entró en las fuerzas especiales para combatir a los militantes y los invasores xenohumanos. HECAP nunca se imaginó a sí mismo como un héroe solitario, pero él jugó su parte en el grupo también.</desc>
+		<desc>Dame una razón para matar, ¡una buena razón! NAME era un soldado y un experto tan hábil que entró en las fuerzas especiales para luchar contra militantes e invasores xenohumanos. HECAP nunca se imaginó a sí mismo como un héroe solitario, pero él también hizo su parte en el grupo.</desc>
 	</SpecialForces72>
 	<HackerKid65>
 		<title>Chico hacker</title>
 		<titleShort>Hacker</titleShort>
-		<desc>Nacido en un mundo de alta tecnología, NAME aprendió a hackear computadoras a una edad temprana. Pasar muchas horas jugando solo lo hizo muy bueno con las máquinas, pero muy malo con los seres humanos.</desc>
+		<desc>Nacido en un mundo de alta tecnología, NAME aprendió a hackear computadoras a una edad temprana. Pasar muchas horas jugando no solo hizo que fuera muy bueno con las máquinas, sino también muy malo con los seres humanos.</desc>
 	</HackerKid65>
 	<BattleMechanic79>
-		<title>Mecánico de batalla</title>
+		<title>Mecánico militar</title>
 		<titleShort>Mecánico</titleShort>
-		<desc>NAME era un mercenario obsesionado por la tecnología en un sistema de era de fusión temprana. HECAP estaba inusualmente obsesionado con la recolección del equipo adecuado, ya menudo personalizaba su propio equipo con modificaciones originales.</desc>
+		<desc>NAME era un mercenario obsesionado por la tecnología en un sistema que era un prototipo de sistema de fusión. HECAP estaba inusualmente obsesionado con recolectar equipo adecuado y a menudo personalizaba su propio equipo con modificaciones originales.</desc>
 	</BattleMechanic79>
 	<VideoGamer94>
 		<title>Videojugador</title>
 		<titleShort>Jugador</titleShort>
-		<desc>NAME creció en un mundo medio, la mayoría encerrado en su cuarto, jugando videojuegos. HECAP era cálido de corazón, con un profundo cariño por los animales. A medida que creció, se dirigió a las drogas para realzar su realidad. Durante estos tiempos difíciles encontró pasión y refugio en el gimnasio.</desc>
+		<desc>NAME creció en un mundo estándar, encerrado en su cuarto la mayor parte del tiempo mientras jugaba a videojuegos. HECAP era bueno de corazón y sentía un profundo cariño por los animales. A medida que creció, empezó a consumir drogas para realzar su realidad. Durante estos tiempos difíciles encontró pasión y refugio en el gimnasio.</desc>
 	</VideoGamer94>
 	<DischargedSoldier36>
 		<title>Soldado dado de baja</title>
 		<titleShort>Soldado</titleShort>
-		<desc>Jeremy se prostituyó para financiar sus hábitos de droga. Como escape, se unió a los militares y aprendió a luchar. Demasiado inteligente para el ejército, cuestionó y muchas veces no estuvo de acuerdo con las decisiones de sus superiores. Esto finalmente llevó a su baja deshonrosa y le dejó con un chip en su hombro.</desc>
+		<desc>NAME se prostituyó para financiar su adicción a la droga. Para huir, se alistó en el ejército y aprendió a luchar. Demasiado inteligente para el ejército, se cuestionó y muchas veces las decisiones de sus superiores. Esto finalmente llevó a su baja deshonrosa y le dejó con un chip en su hombro.</desc>
 	</DischargedSoldier36>
 	<MidworldLoner78>
-		<title>Solitario de mundo medio</title>
+		<title>Solitario de mundo estándar</title>
 		<titleShort>Solitario</titleShort>
-		<desc>Nacido en un medio mundo escasamente poblado, NAME tenía algunos amigos. HECAP prefería perseguir sus pasiones en la soledad, ya sea jugando con su moto, viendo videos largos sobre la nueva tecnología más caliente, o alineando sus figurillas y disparando con su pistola de balines.</desc>
+		<desc>Nacido en un mundo estándar escasamente poblado, NAME tenía pocos amigos. HECAP prefería perseguir sus pasiones en soledad, ya sea jugando con su moto, viendo videos largos sobre la tecnología más puntera, o ordenando sus figuritas y disparando con su pistola de balines.</desc>
 	</MidworldLoner78>
 	<MilitaryGunsmith58>
 		<title>Armero militar</title>
 		<titleShort>Armero</titleShort>
-		<desc>Inspirado por un pedazo particularmente sugestivo de la propaganda, Roberto firmó para ingresar a los armada con en esperanzas de encontrar gloria. Para su consternación, sin embargo, sus pruebas de aptitud le pusieron en la tienda de máquinas en vez de en las líneas de frente. Más tarde, cuando vio las filas de bolsas de cuerpos volviendo a su casa, se dió cuenta de lo afortunado que era.</desc>
+		<desc>Inspirado por un pedazo particularmente convincente de propaganda, NAME se alistó en el ejército con en esperanzas de encontrar gloria. Para su consternación, sin embargo, sus pruebas de aptitud le pusieron en el taller en vez de en el frente. Más tarde, cuando vio las filas de bolsas de cuerpos volviendo a su casa, se dió cuenta de lo afortunado que era.</desc>
 	</MilitaryGunsmith58>
 	<Student1>
 		<title>Estudiante</title>
 		<titleShort>Estudiante</titleShort>
-		<desc>NAME estudió química y mecánica cuántica para el entretenimiento. HECAP era muy bueno en convencer a otros de hacer su trabajo físico, y lo convirtió en un objetivo en la vida para evitar el trabajo manual.</desc>
+		<desc>NAME estudió química y mecánica cuántica como entretenimiento. HECAP era muy bueno a la hora de convencer a otros para hacer su trabajo físico, y lo convirtió en un objetivo vital para evitar el trabajo manual.</desc>
 	</Student1>
 	<Chemist38>
 		<title>Químico</title>
 		<titleShort>Químico</titleShort>
-		<desc>NAME fue un químico investigador. HECAP trabajó con productos químicos, desde fármacos hasta explosivos, para desarrollar nuevas sustancias y tratamientos.</desc>
+		<desc>NAME era un investigador químico. HECAP trabajó con productos químicos, desde fármacos hasta explosivos, para desarrollar nuevas sustancias y tratamientos.</desc>
 	</Chemist38>
 	<CaravanTraveler8>
 		<title>Viajero de caravanas</title>
 		<titleShort>Viajero</titleShort>
-		<desc>NAME nació en una familia nómada de comerciantes de caravanas en un mundo llano. HISCAP padre, el líder de la caravana, le enseñó el comercio de caravanas. Debido a que era capaz de hacer trueques o cazar toda su comida, nunca tuvo que preocuparse por hacer ningún trabajo en la granja. Más tarde, su padre se retiró a una granja y ofreció a NAME la posición de líder de la caravana.</desc>
+		<desc>NAME nació en una familia de comerciantes nómadas que viajaban en caravanas en un mundo llano. HISCAP padre, el líder de la caravana, le enseñó a comerciar. Debido a que era capaz de hacer trueque o cazar toda su comida, nunca tuvo que preocuparse por hacer ningún trabajo en la granja. Más tarde, su padre se retiró a una granja y ofreció a NAME la posición como líder de la caravana.</desc>
 	</CaravanTraveler8>
 	<Caravaneer75>
 		<title>Caravaneador</title>
 		<titleShort>Caravaneador</titleShort>
-		<desc>NAME era el líder de una caravana nómada. Era su deber negociar acuerdos comerciales y asegurar la seguridad de su caravana contra bandoleros y salteadores. Se convirtió en un maestro en la gestión de mercancías, trazando rutas, y hacer buenas ofertas.</desc>
+		<desc>NAME era el líder de una caravana nómada. Su deber era negociar acuerdos comerciales y mantener la seguridad de su caravana contra bandoleros y salteadores. Se convirtió en un maestro en la gestión de mercancías, trazando rutas, y haciendo buenas ofertas.</desc>
 	</Caravaneer75>
 	<SuperSoldier19>
 		<title>Super soldado</title>
 		<titleShort>Soldado</titleShort>
-		<desc>El gobierno de NAME dirigió un programa experimental de desarrollo de un súper soldado. Secuestraron a miles de niños, condicionaron sus mentes con drogas y máquinas, y los entrenaron para luchar. La mayoría de los niños murieron, pero NAME no. Mató a su primer hombre a la edad de seis años, y estaba luchando en las operaciones de campo no mucho después.</desc>
+		<desc>El gobierno de NAME dirigió un programa experimental de desarrollo de súper soldados. Secuestraron a miles de niños, condicionaron sus mentes con drogas y máquinas, y los entrenaron para luchar. La mayoría de los niños murieron, pero NAME no. Mató a su primer hombre cuando tenía seis años, y estaba luchando en operaciones de campo no mucho después.</desc>
 	</SuperSoldier19>
 	<SuperSoldier81>
 		<title>Super soldado</title>
 		<titleShort>Soldado</titleShort>
-		<desc>Producto de un programa de super-soldado dirigido por un gobierno ahora depuesto, NAME se perdió. HECAP sobrevivió al ataque suicida final contra la nave nodriza enemiga. ¿Ahora que? Por primera vez en su vida, no tenía órdenes, ni objetivos. HECAP se levantó de los restos y se esforzó hacia la incertidumbre, hacia la libertad.</desc>
+		<desc>Producto de un programa para crear un super-soldado dirigido por un gobierno ahora depuesto, NAME desapareció. HECAP sobrevivió a un ataque suicida final contra la nave nodriza enemiga. ¿Ahora que? Por primera vez en su vida, no tenía órdenes ni objetivos. HECAP se levantó de entre los escombros y se tambaleó hacia la incertidumbre, hacia la libertad.</desc>
 	</SuperSoldier81>
 	<HeadjackAddict49>
-		<title>Adicto al conector de cabeza</title>
+		<title>Adicto al RV</title>
 		<titleShort>Conectado</titleShort>
-		<desc>Conectado a la computadora por una conexión a la cabeza, por días, NAME encontró que preferia la compañía de computadoras a la de la gente o de animales domésticos.</desc>
+		<desc>Conectado al ordenador a través de su cabeza durante días, NAME encontró que preferia la compañía de los ordenadores a la de la gente o los animales domésticos.</desc>
 	</HeadjackAddict49>
 	<CorporateBuilder80>
 		<title>Constructor corporativo</title>
@@ -2646,33 +2646,33 @@
 		<desc>A pesar de que él se desgastó buscando su potencial (¿Para qué era bueno?), NAME encontró que tenía la habilidad de mover objetos rápidamente. Era precisamente lo que querían las megacentrales planetarias en sus divisiones de construcción. Desafortunadamente, el trabajo monótono borró sus impulsos creativos.</desc>
 	</CorporateBuilder80>
 	<UrbworldArmyBrat71>
-		<title>Mocoso del ejército de Mundo Urbano</title>
+		<title>Mocoso de ejército de Mundo Urbano</title>
 		<titleShort>Mocoso</titleShort>
-		<desc>NAME creció en una base militar urbana. HECAP era demasiado joven para luchar, pero aprendió a ser útil en otros aspectos. HECAP se familiarizó con armas y equipo militar, pero nunca se puso realmente en contacto con el mundo natural.</desc>
+		<desc>NAME creció en una base militar urbana. HECAP era demasiado joven para luchar, pero aprendió a ser útil en otros aspectos. HECAP se familiarizó con las armas y el equipo militar, pero nunca entró en contacto con el mundo natural.</desc>
 	</UrbworldArmyBrat71>
 	<MechanicsEngineer7>
 		<title>Ingeniero mecánico</title>
 		<titleShort>Ingeniero</titleShort>
-		<desc>NAME amaba resolver problemas y, con sus manos firmes y una reputación de trabajo de calidad, ganó un trabajo como ingeniero mecánico. HECAP construye y rediseña dispositivos de todas las formas y tamaños. Con el tiempo, fue capaz de escoger y elegir a sus clientes corporativos. HECAP hizo varios amigos ricos, así como algunos enemigos poderosos.</desc>
+		<desc>NAME amaba resolver problemas y, con sus manos firmes y la reputación de un trabajo de calidad, consiguió un trabajo como ingeniero mecánico. HECAP construía y rediseñaba dispositivos de todas formas y tamaños. Con el tiempo, fue capaz de escoger y elegir a sus clientes corporativos. HECAP hizo varios amigos ricos, así como algunos enemigos poderosos.</desc>
 	</MechanicsEngineer7>
 	<CaravanTraveler5>
 		<title>Viajero de caravanas</title>
 		<titleShort>Viajero</titleShort>
-		<desc>Nacido en una familia de comerciantes ambulantes, NAME fue mentorado por su padre en las formas de ser un comerciante. HECAP fue a menudo encargado de cuidar de los animales de carga. Debido a su estilo de vida nómada, él cazó e intercambió para obtener comida.</desc>
+		<desc>Nacido en una familia de comerciantes ambulantes, NAME fue educado por su padre en las diversas formas de comercio. HECAP se encargaba a menudo de cuidar de los animales de carga. Debido a su estilo de vida nómada, cazó y comerció para obtener comida.</desc>
 	</CaravanTraveler5>
 	<Caravaneer77>
-		<title>Caravaneador</title>
-		<titleShort>Caravaneador</titleShort>
-		<desc>NAME era el líder de una caravana. HECAP era responsable de la seguridad de su caravana y era el negociador principal en innumerables acuerdos comerciales. HECAP y su gente prosperaron, pero su riqueza los convirtió en un blanco para los bandoleros. A menudo tenían que tomar las armas para defenderse de bandidos y bandoleros.</desc>
+		<title>Líder de caravana</title>
+		<titleShort>Líder de caravana</titleShort>
+		<desc>NAME era el líder de una caravana. HECAP era el responsable de la seguridad de su caravana y de negociar en innumerables acuerdos comerciales. HECAP y su gente prosperaron, pero su riqueza los convirtió en el blanco de muchos bandoleros. A menudo tenían que tomar las armas para defenderse de bandidos y saqueadores.</desc>
 	</Caravaneer77>
 	<Punk70>
-		<title>Punk</title>
-		<titleShort>Punk</titleShort>
-		<desc>NAME pasó su infancia vendiendo cigarrillos a los 15 años de edad. Los cigarrillos a menudo estaban llenos de recortes de hierba.</desc>
+		<title>Gamberro</title>
+		<titleShort>Gamberro</titleShort>
+		<desc>NAME pasó su infancia vendiendo cigarrillos a los 15 años. Los cigarrillos a menudo estaban llenos de recortes de hierba.</desc>
 	</Punk70>
 	<GameDeveloper59>
 		<title>Desarrollador de juegos</title>
 		<titleShort>Desarrollador</titleShort>
-		<desc>NAME era un desarrollador de juegos independiente. Después de un éxito temprano, la carrera de NAME rápidamente se degeneró en un circo de ideas equivocadas, los tratos salieron mal, y las acrobacias de PR desesperadas y fallidas.</desc>
+		<desc>NAME era un desarrollador de juegos independiente. Después de un éxito inicial, la carrera de NAME rápidamente se degeneró en un sinfin de ideas equivocadas, malos acuerdos y las estretegias de relaciones públicas desesperadas y fallidas.</desc>
 	</GameDeveloper59>
 </BackstoryTranslations>
