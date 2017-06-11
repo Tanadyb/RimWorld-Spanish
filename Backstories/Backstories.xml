@@ -16,7 +16,7 @@
 		<desc>NAME era un 'señor' en un planeta preindustrial. HECAP fue a fiestas, dirigía a sus criados e incluso aprendió a manejar la espada un poco. Sus delicadas manos nunca tocaron una herramienta de trabajo durante todo ese tiempo. HECAP considera que el trabajo manual está por debajo de HIM.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
-		<title>Empresario del mundo urbe</title>
+		<title>Empresario de mundo urbe</title>
 		<titleShort>Empresario</titleShort>
 		<desc>En los mundos urbe, la mayoría sufre. Pero alguien tiene que dirigir las empresas. NAME aprendió lo necesario para trabajar - 'hacer donaciones' y el 'análisis técnico'. HECAP es una máquina sociointellectual.</desc>
 	</UrbworldEntrepreneur55>
@@ -76,7 +76,7 @@
 		<desc>NAME era un noble menor en un reino antiguo en un mundo medieval. HECAP creció en una mansión hecha de piedra, cuidada por serviciales criados. Tal vida no enseña habilidades técnicas y asienta una aversión de por vida al trabajo manual pero NAME aprendió rápidamente lo necesario para la vida social.</desc>
 	</MedievalLordling62>
 	<UrbworldUrchin46>
-		<title>Pilluelo de MundoUrbano</title>
+		<title>Pilluelo de Mundo urbe</title>
 		<titleShort>Pilluelo</titleShort>
 		<desc>Los mundos urbe son paisajes urbanos industriales antiguos y profundos repletos de personas y veneno. NAME creció en la oscuridad, lugar en el que nadie se atrevería a ir. HECAP tuvo que luchar para poder comer.</desc>
 	</UrbworldUrchin46>
@@ -88,42 +88,42 @@
 	<Hermit87>
 		<title>Ermitaño</title>
 		<titleShort>Ermitaño</titleShort>
-		<desc>Desgastado por las presiones de la interacción social, NAME dejó a su concurrida ciudad del medio del mundo para vivir una vida sencilla en el desierto. Allí, él pasó sus días solo, cuidando su jardín y creando las herramientas simples que necesitaba para sobrevivir.</desc>
+		<desc>Desgastado por la presión social, NAME dejó su concurrida ciudad en un mundo estándar para vivir una vida sencilla en eel campo. Allí pasó sus días solo, cuidando de su jardín y creando todo tipo de herramientas simples necesarias para sobrevivir.</desc>
 	</Hermit87>
 	<MidworldChef39>
-		<title>Cocinero del mediano mundo</title>
+		<title>Cocinero de mundo estándar</title>
 		<titleShort>Cocinero</titleShort>
-		<desc>NAME tenía un restaurante de clase media en el medio del mundo. HECAP era famoso entre los patrones para sus especialidades culinarias creativas, e infame entre los trabajadores de la cocina para su desdén casual por el trabajo con gruñidos.</desc>
+		<desc>NAME tenía un popular restaurante en un mundo estándar. HECAP era famoso entre sus clientes por su especial creatividad culinaria, e infame entre los trabajadores de las cocinas por su desdén casual cara el trabajo sucio.</desc>
 	</MidworldChef39>
 	<SicklyChild40>
 		<title>Niño enfermo</title>
 		<titleShort>Paciente</titleShort>
-		<desc>Cuando era niño, NAME sufría de una enfermedad rara. Pasó por la cuarentena en un hospital de investigación, él tenía contacto humano mínimo y recibió poco ejercicio físico. En el ambiente hospitalario estéril, sin embargo, se familiarizó con la ciencia y la medicina.</desc>
+		<desc>Cuando era niño, NAME sufría de una rara enfermedad. Estuvo en cuarentena en un hospital de investigación en el que apenas tenía contacto humano y hacía poco ejercicio físico. Sin embargo, en el estéril ambiente del hospital, se familiarizó con la ciencia y la medicina.</desc>
 	</SicklyChild40>
 	<MedievalMinstrel69>
 		<title>Trovador medieval</title>
 		<titleShort>Trovador</titleShort>
-		<desc>NAME fue un artista itinerante en un mundo medieval. HECAP siempre se puede encontrar contando historias o cantando canciones, y es capaz de protegerse a sí mismo de los peligros de la carretera. Sin embargo, HECAP estaba siempre estaba ausente cuando había trabajo duro que hacer.</desc>
+		<desc>NAME fue un artista itinerante en un mundo medieval. HECAP siempre estaba contando historias o cantando canciones, y es capaz de protegerse a sí mismo de los peligros que surjan en el camino. Sin embargo, HECAP estaba siempre estaba ausente cuando había que hacer cualquier trabajo duro.</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
-		<title>Compañero de casa</title>
-		<titleShort>Compañero de casa</titleShort>
-		<desc>Como adulto, NAME mantuvo la casa y cuidó de los niños mientras su cónyuge trabajaba.</desc>
+		<title>Amo casa</title>
+		<titleShort>Amo de casa</titleShort>
+		<desc>Como adulto, NAME mantuvo la casa y cuidó de sus hijos mientras su cónyuge trabajaba.</desc>
 	</Housemate5>
 	<GlitterworldEmpath39>
-		<title>Empatía de Mundo Blillante</title>
-		<titleShort>Empatico</titleShort>
-		<desc>NAME tenía una increíble habilidad para relacionarse con otros y mediar en el conflicto. HECAP fue seleccionado para entrenar como un empatico El entrenamiento intensificó sus habilidades naturales, pero se volvió incapaz de dañar a otros.</desc>
+		<title>Émpata de Mundo Brillante</title>
+		<titleShort>Émpata</titleShort>
+		<desc>NAME tenía una increíble habilidad para relacionarse con otros y mediar en conflictos. HECAP fue seleccionado para ser entrenado como émpata. El entrenamiento acentuó sus habilidades naturales, pero se volvió incapaz de hacer daño a los demás.</desc>
 	</GlitterworldEmpath39>
 	<ShelterChild65>
-		<title>Niño refugiado</title>
-		<titleShort>Niño Refugiado</titleShort>
-		<desc>NAME creció en un refugio muy profundo bajo un mundo tóxico. HECAP recibió una educación integral, pero no tuvo oportunidad de hacer trabajo físico.</desc>
+		<title>Niño de refugio</title>
+		<titleShort>Niño refugio</titleShort>
+		<desc>NAME creció en un refugio bajo tierra en un mundo tóxico. HECAP recibió una educación integral, pero no tuvo oportunidad de hacer trabajo físico.</desc>
 	</ShelterChild65>
 	<MedievalDoctor6>
 		<title>Médico medieval</title>
 		<titleShort>Curandero</titleShort>
-		<desc>NAME trabajaba como médico en un planeta medieval. HECAP cree firmemente que la mayoría de las dolencias pueden curarse con un poco de sangre. HECAP fue también un maestro anestesista, desarrollando una técnica especial que implicaba un duro golpe en la cabeza.</desc>
+		<desc>NAME trabajaba como médico en un planeta medieval. HECAP cree firmemente que la mayoría de las dolencias pueden curarse hacendo algunas sangrías. HECAP fue también un maestro anestesista, desarrollando una técnica especial que implicaba un duro golpe en la cabeza.</desc>
 	</MedievalDoctor6>
 	<Inventor42>
 		<title>Inventor</title>
@@ -133,37 +133,37 @@
 	<Teacher24>
 		<title>Maestro</title>
 		<titleShort>Maestro</titleShort>
-		<desc>NAME fue educado en las artes liberales y enseñado en una escuela pública. HECAP fue muy bien informado y muy querido por sus estudiantes.</desc>
+		<desc>NAME hizo una carrera de letras y acabó enseñando en una escuela pública. HECAP era alguien muy culto y querido por sus estudiantes.</desc>
 	</Teacher24>
 	<IndustrialOrphan55>
 		<title>Huérfano industrial</title>
 		<titleShort>Huérfano</titleShort>
-		<desc>NAME nunca conoció a sus padres. Los recuerdos más antiguos de HISCAP eran de trabajos pesados ​​en las minas y en los talleres de su mundo industrial. Debido a esto, nunca recibió una educación adecuada.</desc>
+		<desc>NAME nunca conoció a sus padres. Los primeros recuerdos de HISCAP eran de trabajos pesados ​​en las minas y en los talleres de su mundo industrial. Debido a esto, nunca recibió una educación adecuada.</desc>
 	</IndustrialOrphan55>
 	<Scout67>
 		<title>Explorador</title>
 		<titleShort>Explorador</titleShort>
-		<desc>Nacido de administradores coloniales de una pequeña potencia imperial, NAME se inscribió en un programa juvenil que enseñaba habilidades de exploración militar. HECAP aprendió a sobrevivir en el desierto, a obedecer, y no hacer preguntas.</desc>
+		<desc>Nacido de administradores coloniales de una pequeña potencia imperial, NAME se inscribió en un programa juvenil que enseñaba habilidades de exploración militar. HECAP aprendió a sobrevivir en la naturaleza, a obedecer, y no hacer preguntas.</desc>
 	</Scout67>
 	<JoywireArtist62>
-		<title>Artista del alambre de la alegría</title>
-		<titleShort>Alambreador</titleShort>
-		<desc>NAME trabajó en un laboratorio del mundo urbano desarrollando software de Alegría de vanguardia para maximizar el placer del usuario. Cuando el gobierno local impuso severas restricciones a la fabricación de Alambres de placer él comenzó a vender sus productos en el mercado negro.</desc>
+		<title>Artista de chips del placer</title>
+		<titleShort>Diseñador</titleShort>
+		<desc>NAME trabajaba en un laboratorio de un mundo urbe desarrollando software para chips del placer de vanguardia para maximizar el placer del usuario. Cuando el gobierno local impuso severas restricciones a la fabricación de chips del placer, comenzó a vender sus productos en el mercado negro.</desc>
 	</JoywireArtist62>
 	<FrightenedChild6>
-		<title>Niño asustado</title>
+		<title>Niño asustadizo</title>
 		<titleShort>Asustado</titleShort>
-		<desc>NAME creció con una lista de fobias y neurosis. HECAP temía, entre otras cosas, a los médicos y a los patógenos transmitidos por los alimentos. Como resultado, él aprendió a cocinar y cuidar de sí mismo, pero muchos de sus miedos le perturban en la edad adulta.f</desc>
+		<desc>NAME creció con una lista de fobias y neurosis. HECAP temía, entre otras cosas, a los médicos y a los patógenos transmitidos por los alimentos. Como resultado, él aprendió a cocinar y cuidar de sí mismo, pero muchos de sus miedos aún lo perturban a día de hoy.f</desc>
 	</FrightenedChild6>
 	<ConceptualArtist7>
 		<title>Artista conceptual</title>
 		<titleShort>Artista</titleShort>
-		<desc>NAME era bien conocido en los círculos de arte en su ​​mundo natal, por sus obras de arte conceptuales únicas y creativas. Nadie estaba exactamente seguro de lo que estaba tratando de comunicar, pero sus piezas fueron muy valoradas por los coleccionistas.</desc>
+		<desc>NAME era bien conocido entre los círculos de arte en su ​​mundo natal por sus obras de arte conceptual únicas y creativas. Nadie estaba exactamente seguro de lo que estaba tratando de comunicar, pero sus piezas fueron muy apreciadas por los coleccionistas.</desc>
 	</ConceptualArtist7>
 	<GlitterworldSurgeon7>
-		<title>Cirujano de MundoBrillante</title>
+		<title>Cirujano de Mundo brillante</title>
 		<titleShort>Cirujano</titleShort>
-		<desc>NAME trabajó como cirujano en un mundo en su mayoría libre de enfermedades y sufrimiento humano. El trabajo de HISCAP involucró sobre todo cirugías cosméticas, elaboradas y creativas. HECAP tiene una buena comprensión de la biología humana, pero nunca tuvo que eliminar un cáncer - o una bala.</desc>
+		<desc>NAME trabajó como cirujano en un mundo que,en su mayoría, estaba libre de enfermedad y sufrimiento. El trabajo de HISCAP involucró sobre todo cirugía estética elaborada y creativas. HECAP tiene una buena comprensión de la biología humana, pero nunca tuvo que curar un cáncer - o extraer una bala.</desc>
 	</GlitterworldSurgeon7>
 	<LudditeRebel42>
 		<title>Rebelde ludita</title>
@@ -178,17 +178,17 @@
 	<CaveworldTender5>
 		<title>Niño de las cavernas</title>
 		<titleShort>Niño cueva</titleShort>
-		<desc>NAME creció en un complejo cueva profundo bajo la superficie de un mundo inhóspito. HECAP trabajó con los otros niños que cuidan los cultivos de hongos de la tribu.</desc>
+		<desc>NAME creció en un complejo de cuevas profundo bajo la superficie de un mundo inhóspito. HECAP trabajó con los otros niños que cuidaban de los cultivos de hongos de la tribu.</desc>
 	</CaveworldTender5>
 	<CaveworldTunneler74>
-		<title>Tunelizador del Mundo de las cavernas</title>
+		<title>Tunelizador de mundo caverna</title>
 		<titleShort>Tunelizador</titleShort>
-		<desc>NAME trabajaba como excavadora en el complejo de cuevas subterráneas. HECAP conoce la roca tan bien que casi puede navegar por las cuevas solo con el olfato.</desc>
+		<desc>NAME trabajaba como excavadora en un complejo de cuevas subterráneas. HECAP conoce las rocas tan bien que casi puede navegar por cuevas solo con el olfato.</desc>
 	</CaveworldTunneler74>
 	<HiveworldDrone29>
-		<title>Zangano de MundoColmena</title>
+		<title>Zangano de Mundo colmena</title>
 		<titleShort>Zangano</titleShort>
-		<desc>NAME trabajó como un zángano de construcción sin sentido en una enorme civilización Colmena Aunque ahora está libre de los brutales experimentos sociales a los que fue sometido, él sigue siendo incapaz de tener un pensamiento creativo y liderazgo.</desc>
+		<desc>NAME trabajó como un zángano sin voluntad en la construcción de una enorme civilización colmena. Aunque ahora está libre de los brutales experimentos sociales a los que fue sometido, él sigue siendo incapaz de tener pensamientos creativos o asumir el liderazgo.</desc>
 	</HiveworldDrone29>
 	<Evangelist66>
 		<title>Evangelista</title>
@@ -196,79 +196,79 @@
 		<desc>En su 21 cumpleaños, NAME experimentó un despertar religioso. HECAP decidió pasar el resto de su vida difundiendo la palabra de su deidad, la belleza de su cultura y su inusual tradición médica.</desc>
 	</Evangelist66>
 	<TunnelworldIlluminator50>
-		<title>Iluminador del MundoCaverna</title>
+		<title>Iluminador del mundo caverna</title>
 		<titleShort>Iluminador</titleShort>
-		<desc>Entre los habitantes de túneles, aquellos con visión tan fuerte como NAME son reverenciados como sabios. HECAP encabezaría el camino, marcando manchas con hongos bioluminiscentes, para cavar y advirtiendo a otros del peligro inminente.</desc>
+		<desc>Entre los habitantes de túneles, aquellos con una visión tan buena como la de NAME son reverenciados como sabios. HECAP iría a la cabeza, marcando manchas con hongos bioluminiscentes para cavar y advertir a otros del peligro inminente.</desc>
 	</TunnelworldIlluminator50>
 	<Herbalist89>
 		<title>Herbalista</title>
 		<titleShort>Herbalista</titleShort>
-		<desc>NAME vivía en el bosque cerca de un pueblo. Aunque muchos de los aldeanos le temían, los enfermos acudían a él para comprar los bálsamos y cataplasmas hechos con las hierbas que crecía en su jardín. HECAP estaba feliz de ayudarles - por un precio.</desc>
+		<desc>NAME vivía en un bosque cerca de un pueblo. Aunque muchos de los aldeanos lo temían, los enfermos acudían a él para comprar bálsamos y cataplasmas hechos con hierbas que crecía en su jardín. HECAP estaba contento por ayudarlos... Por un precio.</desc>
 	</Herbalist89>
 	<ComaChild18>
-		<title>Niño coma</title>
+		<title>Niño en coma</title>
 		<titleShort>Coma</titleShort>
-		<desc>Un accidente infantil puso a NAME en coma. HECAP no se despertó hasta que se encontraba en su ​​última adolescencia. El cuerpo de HISCAP nunca se recuperó de los años de inactividad, pero la gente tiende a tener piedad de él cuando escuchan su historia.</desc>
+		<desc>Un accidente infantil puso a NAME en coma. HECAP no se despertó hasta que se encontraba en los últimos años de su adolescencia. El cuerpo de HISCAP nunca se recuperó de los años de inactividad, pero la gente tiende a tener piedad de él cuando escuchan su historia.</desc>
 	</ComaChild18>
 	<CivilServant75>
 		<title>Funcionario</title>
 		<titleShort>Empleado</titleShort>
-		<desc>NAME trabajaba como un administrador de bajo rango para una moribunda burocracia gubernamental. HECAP está más en casa llenando papeleo complicado y jugando a la política de oficina.</desc>
+		<desc>NAME trabajaba como un administrador de bajo rango para una moribunda burocracia gubernamental. HECAP se siente a gusto rellenando papeleo complicado e involucrándose en la política de la oficina.</desc>
 	</CivilServant75>
 	<OrganFarm9>
-		<title>Granjero de organos</title>
-		<titleShort>Granjero de organos</titleShort>
-		<desc>NAME fue criado en una granja ilegal de órganos subterránea. El cuerpo de HISCAP se utilizó para producir implantes orgánicos para mercenarios heridos. A pesar de su educación ha dejado HIM embrujado, también le ha dado una comprensión única de la biología humana.</desc>
+		<title>Granja de organos</title>
+		<titleShort>Granja de organos</titleShort>
+		<desc>NAME fue criado en una granja ilegal de órganos subterránea. El cuerpo de HISCAP se utilizó para producir implantes orgánicos para mercenarios heridos. A pesar de su educación lo ha dejado traumatizado, también le ha dado una comprensión única sobre biología humana.</desc>
 	</OrganFarm9>
 	<AsceticPriest87>
 		<title>Sacerdote asceta</title>
 		<titleShort>Sacerdote</titleShort>
-		<desc>Después de hacer un voto de silencio, NAME se unió a un monasterio en un remanso de un planeta tranquilo para pasar sus días en una contemplación tranquila. HECAP encontró felicidad cultivando verduras en el jardín y haciendo queso en las bodegas del monasterio.</desc>
+		<desc>Después de hacer un voto de silencio, NAME se unió a un monasterio en un planeta tranquilo para pasar sus días en tranquila contemplación. HECAP encontró la felicidad cultivando verduras en el jardín y haciendo queso en las bodegas del monasterio.</desc>
 	</AsceticPriest87>
 	<EscapedConvict68>
-		<title>Convicto en fuga</title>
+		<title>Convicto a la fuga</title>
 		<titleShort>Fugitivo</titleShort>
-		<desc>NAME niega participar en los crímenes que causaron su encarcelamiento en una colonia penal brutal. HECAP escapó haciendo un tunel bajo el perímetro usando cubiertos modificados.</desc>
+		<desc>NAME negó haber participado en los crímenes que causaron su encarcelamiento en una brutal colonia penal. HECAP escapó haciendo un tunel bajo el perímetro usando cubiertos modificados.</desc>
 	</EscapedConvict68>
 	<StarshipJanitor15>
-		<title>Concerje de nave</title>
-		<titleShort>Portero</titleShort>
-		<desc>Mientras que otros pasajeros pasan los años entre los sistemas estelares en los sarcófagos de criptosueño, NAME tuvo que despertar a intervalos periódicos para realizar inspecciones, revisar los sistemas de navegación y para engrasar los mecanoides.</desc>
+		<title>Mantenimiento de naves</title>
+		<titleShort>Mantenimiento</titleShort>
+		<desc>Mientras que otros pasajeros pasan años entre sistemas estelares en sarcófagos de criosueño, NAME tenía que despertar a intervalos regulares para realizar inspecciones, revisar los sistemas de navegación y engrasar los mecanoides.</desc>
 	</StarshipJanitor15>
 	<Pyromaniac68>
 		<title>Incendiario</title>
-		<titleShort>Piromaniaco</titleShort>
-		<desc>Desde una edad temprana, NAME tenía una fascinación malsana con el fuego. HECAP ponía fuego a las pilas de basura y se encantaba por las llamas con las que él mismo se quemaría. Un día, mientras jugaba con las cerillas HE incendió descuidadamente su casa.</desc>
+		<titleShort>Pirómano</titleShort>
+		<desc>Desde una edad temprana, NAME sentía una fascinación malsana por el fuego. HECAP quemaba montones de basura y se deleitaba observando las llamas con las que él mismo se quemaría. Un día, mientras jugaba con las cerillas HE incendió descuidadamente su casa.</desc>
 	</Pyromaniac68>
 	<Mute55>
 		<title>Mudo</title>
 		<titleShort>Mudo</titleShort>
-		<desc>NAME fue muy afectado por un evento traumático temprano en su vida. Durante muchos años se negó a hablar con la gente, prefiriendo jugar con las numerosas mascotas de su casa.</desc>
+		<desc>NAME quedó gravemente afectado por un evento traumático durante sus primeros años de vida. Durante muchos años se negó a hablar con la gente, prefiriendo jugar con las numerosas mascotas de su casa.</desc>
 	</Mute55>
 	<Refugee70>
 		<title>Refugiado</title>
 		<titleShort>Refugiado</titleShort>
-		<desc>La guerra estalló en la casa de NAME cuando él era un bebé. Los padres de HISCAP huyeron con él, buscando seguridad dondequiera que pudieran encontrarla. Los primeros recuerdos de NAME son enseñanzas de cómo defenderse. La violencia y la destrucción que presenció lo dejaron marcado para toda la vida.</desc>
+		<desc>La guerra estalló en el mundo de NAME cuando aún era un bebé. Los padres de HISCAP huyeron con él, buscando seguridad dondequiera que pudieran encontrarla. Los primeros recuerdos de NAME son lecciones sobre cómo defenderse. La violencia y la destrucción que presenció lo dejaron traumatizado de por vida.</desc>
 	</Refugee70>
 	<MusicLover26>
 		<title>Amante de la música</title>
 		<titleShort>Músico</titleShort>
-		<desc>Como niño, NAME tenía talento para tocar instrumentos musicales y cantar. HECAP recibió una formación especializada y le encantaba actuar en recitales y conciertos, aunque el elogio exuberante que recibió le hizo un poco obsesionado.</desc>
+		<desc>Como niño, NAME tenía talento para tocar instrumentos musicales y cantar. HECAP recibió formación especializada y le encantaba actuar en recitales y conciertos, aunque el elogio exuberante que recibió hizo que se obsesionara un poco.</desc>
 	</MusicLover26>
 	<ChildStar51>
 		<title>Niño estrella</title>
 		<titleShort>Estrella</titleShort>
-		<desc>NAME era bien conocido en todo todo su mundo, como un actor infantil en películas y programas de televisión. La fama de HISCAP lo puso en contacto con muchos tipos diferentes de personas, pero también tendió a meterse en el camino de su educación.</desc>
+		<desc>NAME era bien conocido en todo todo su mundo, como un actor infantil en películas y programas de televisión. La fama de HISCAP lo puso en contacto con muchos tipos diferentes de personas, pero también solía entrometerse con su educación.</desc>
 	</ChildStar51>
 	<ChildSpy95>
 		<title>Niño espía</title>
 		<titleShort>Espía</titleShort>
-		<desc>A menudo se presume que los niños son inocentes y pueden ser ideales como espías. NAME fue capacitado en el arte de la infiltración y la recopilación de información cuando tenía sólo nueve años de edad. HISCAP pasó años detrás de las líneas enemigas y la naturaleza devastada por la guerra de su mundo natal lo cual significó que tuvo una oportunidad limitada para la educación.</desc>
+		<desc>A menudo se presume que los niños son inocentes y pueden ser ideales como espías. NAME estaba capacitado en el arte de la infiltración y la recopilación de información cuando sólo tenía nueve años.HISCAP años tras las líneas enemigas y el que su mundo natal estuviera devastado significó que tuvo una oportunidad limitada para recibir educación.</desc>
 	</ChildSpy95>
 	<Shopkeeper18>
 		<title>Tendero</title>
 		<titleShort>Vendedor</titleShort>
-		<desc>La madre de NAME estaba a menudo enferma, y ​​le correspondió dirigir la tienda, que era su única fuente de ingresos. HECAP aprendió un poco sobre los artefactos exóticos que vendió, y mucho sobre el arte del trato.</desc>
+		<desc>La madre de NAME estaba a menudo enferma, y era responsabilidad suya regentar una tienda que era su única fuente de ingresos. HECAP aprendió un poco sobre los artefactos exóticos que vendía y sobre el arte de comerciar.</desc>
 	</Shopkeeper18>
 	<Nurse0>
 		<title>Enfermero</title>
