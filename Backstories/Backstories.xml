@@ -3,87 +3,87 @@
 	<ColonySettler43>
 		<title>Colono</title>
 		<titleShort>Colono</titleShort>
-		<desc>NAME era uno de los primeros colonos en la nueva colonia. Una vida así requiere una toma de todos los oficios en tareas básicas manuales.</desc>
+		<desc>NAME era uno de los primeros colonos en la nueva colonia. Una vida así requiere una buena competencia en todo tipo de tareas manuales básicas.</desc>
 	</ColonySettler43>
 	<MedievalFarmOaf58>
 		<title>Un patán granjero medieval</title>
 		<titleShort>Patán</titleShort>
-		<desc>Labrar, azadear, guiar carretas de bueyes, empujar carretillas. Cavar zanjas, plantar semillas, predecir la cosecha. Los agricultores de nivel mediano no son educados en el sentido usual, pero saben mucho sobre el cultivo de plantas sin tecnología. Dicho esto, una vida así deja a uno esencialmente incapaz de participar en actividades intelectuales, impulsadas por la tecnología.</desc>
+		<desc>Labrar, arar, guiar carros de bueyes o empujar carretillas. Cavar zanjas, plantar semillas y predecir la cosecha. Los agricultores normales no reciben educación en el sentido común, pero tienen un amplio conocimiento sobre el cultivo de plantas sin tecnología. Dicho esto, una vida así hace que uno sea incapaz de participar en actividades intelectuales, impulsadas por la tecnología.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
-		<title>Lord Medieval</title>
+		<title>Señor Medieval</title>
 		<titleShort>Noble</titleShort>
-		<desc>NAME era un 'Lord' en un planeta preindustrial. HECAP fue a fiestas, manejó a los subalternos, e incluso aprendió un poco a manejar la espada. HISCAP manos blandas no tenía una herramienta de trabajo durante todo ese tiempo. HECAP considera que el trabajo manual está por debajo de HIM.</desc>
+		<desc>NAME era un 'señor' en un planeta preindustrial. HECAP fue a fiestas, dirigía a sus criados e incluso aprendió a manejar la espada un poco. Sus delicadas manos nunca tocaron una herramienta de trabajo durante todo ese tiempo. HECAP considera que el trabajo manual está por debajo de HIM.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
-		<title>Empresario del mundo urbano</title>
+		<title>Empresario del mundo urbe</title>
 		<titleShort>Empresario</titleShort>
-		<desc>En los mundos urbanos, la mayoría sufre. Pero alguien tiene que dirigir las corporaciones. NAME aprendió las habilidades del comercio - 'engrasar las palmas' y el 'análisis técnico'. HECAP es una máquina sociointellectual.</desc>
+		<desc>En los mundos urbe, la mayoría sufre. Pero alguien tiene que dirigir las empresas. NAME aprendió lo necesario para trabajar - 'hacer donaciones' y el 'análisis técnico'. HECAP es una máquina sociointellectual.</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
-		<title>Minero del espacio profundo</title>
+		<title>Minero en el espacio profundo</title>
 		<titleShort>Minero</titleShort>
-		<desc>NAME hizo el sudoroso y sucio trabajo de extraer metal de los asteroides en una plataforma espacial profunda. HECAP usaba sus manos en la obra, diariamente - y tampoco estaban mal en una pelea de bar.</desc>
+		<desc>NAME hizo el arduo y sucio trabajo de extraer metales de los asteroides en una plataforma minera en el espacio profundo. HECAP usaba sus manos para trabajar a diario y tampoco estaban mal para pelear en el bar.</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
 		<title>Científico naval</title>
 		<titleShort>Científico</titleShort>
-		<desc>La guerra interestelar es ganada por la tecnología, por lo que las armadas imperiales están siempre en el pico de la investigación moderna. Mejor aún, tienen acceso a los artefactos trascendentales porque ellos se encuentran en el espacio. NAME trabajaba en un laboratorio de la flota espacial.</desc>
+		<desc>La guerra interestelar se vence con tecnología, por lo que las armadas imperiales están siempre en la vanguardia de la investigación moderna. Mejor aún, tienen acceso a los artefactos trascendentales porque los se encuentran en el espacio. NAME trabajaba en un laboratorio de la flota espacial.</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
 		<title>Comisario militar</title>
 		<titleShort>Comisario</titleShort>
-		<desc>NAME era un espía interno de un batallón del ejército imperial. HECAP se cercioró de que los hombres eran leales, y no regresaba al menos que le fuese ordenado. Esto lo hizo impopular, pero él ganó gran habilidad para detectar la menor deshonestidad.</desc>
+		<desc>NAME era un espía interno en un batallón del ejército imperial. HECAP se aseguraba de mantener a los hombres leales, y no regresaba a menos que le fuese ordenado. Esto hizo que se volviera impopular, pero él adquirió la habilidad para detectar la más mínima mentira.</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
 		<title>Pirata espacial</title>
 		<titleShort>Pirata</titleShort>
-		<desc>La piratería aparece en todas partes donde los gobiernos son débiles y la sociedad se esparce. NAME formaba parte de esta antigua parte de la existencia humana, extorsionando y destruyendo naves comerciales pacíficas con fines de lucro.</desc>
+		<desc>La piratería aparece en cualquier parte donde los gobiernos son débiles y la sociedad se esparce demasiado. NAME formaba parte de esta antigua parte de la existencia humana, extorsionando y destruyendo naves comerciales pacíficas por dinero.</desc>
 	</SpacePirate69>
 	<PitBrawler20>
-		<title>Alborotador del hoyo</title>
-		<titleShort>Alborotador</titleShort>
-		<desc>NAME tenía nueve años cuando obtuvo su primera pelea. HECAP ganó, pero lo más importante fue el disfrute de su audiencia. La lucha contra los pozos resultó ser una carrera lucrativa para aquellos que podrían sobrevivir. E incluso era casi legal.</desc>
+		<title>Luchador callejero</title>
+		<titleShort>Luchador</titleShort>
+		<desc>NAME tenía nueve años cuando ganó su primera pelea. HECAP ganó, pero lo más importante fue el placer del público. La luchar en la calle resultó ser una carrera lucrativa para aquellos que podrían sobrevivir. Y en su mayoría, todo era legal.</desc>
 	</PitBrawler20>
 	<IllegalShipwright28>
-		<title>Carpintero naval ilegal</title>
+		<title>Constructor de naves ilegal</title>
 		<titleShort>Carpintero naval</titleShort>
-		<desc>Hay una ley que dice que no se le permite poner grasas de alcance terawatt en un cargamento. Especialmente si los escondes bajo lo que parece un plato de comunicaciones para un mejor potencial de emboscada. NAME descubrió que hay un gran beneficio, sin embargo, para aquellos que no están interesados ​​en estas leyes.</desc>
+		<desc>Hay una ley que estipula que no está permitido poner engrasadoras de un teravatio de potencia en un cargamento. Especialmente si los escondes bajo lo que parece una antena de comunicaciones para un tener una mejor oportunidad al hacer una emboscada. Sin embargo,  NAME descubrió que aquellos que no están interesados en esta ley pueden ganar mucho dinero.</desc>
 	</IllegalShipwright28>
 	<Courtesean56>
 		<title>Cortesano</title>
 		<titleShort>Cortesano</titleShort>
-		<desc>NAME fue utilizado por su cuerpo por cientos de clientes en burdeles de varios planetas. HECAP ganó algunas marcas mentales y un tipo especial de inteligencia callejera.</desc>
+		<desc>NAME fue utilizado por su cuerpo por cientos de clientes en burdeles de varios planetas. HECAP quedó marcado por esta experiencia y adquirió un tipo especial de saber popular.</desc>
 	</Courtesean56>
 	<SpaceMarine10>
-		<title>Marino espacial</title>
-		<titleShort>Marino</titleShort>
-		<desc>NAME era un guerrero en una marina imperial. El trabajo de HISCAP era golpear a las naves enemigas, disparar a la tripulación y capturar la nave intacta. Y él era bueno en ello.</desc>
+		<title>Marine espacial</title>
+		<titleShort>Marine</titleShort>
+		<desc>NAME era un soldado en una armada imperial. El trabajo de HISCAP era abordar las naves enemigas, matar a la tripulación y capturar la nave intacta. Y él era bueno.</desc>
 	</SpaceMarine10>
 	<Assassin35>
 		<title>Asesino</title>
 		<titleShort>Asesino</titleShort>
-		<desc>NAME fue un asesino profesional. HECAP fue frío, calculador, y obtuvo buenos beneficios. En este negocio, una absoluta falta de empatía era un activo.</desc>
+		<desc>NAME fue un asesino profesional. HECAP era frío, calculador, y ganó mucho dinero. En esta profesion, una absoluta falta de empatía es muy valiosa.</desc>
 	</Assassin35>
 	<MedievalSlave75>
 		<title>Esclavo medieval</title>
 		<titleShort>Esclavo</titleShort>
-		<desc>NAME creció tirando carros y cavando agujeros en un mundo medieval. El trabajo manual simple es su compañero más viejo - junto con el latigazo del amo. HECAP no aprendió a leer hasta la edad de nueve años.</desc>
+		<desc>NAME creció tirando de carros y cavando agujeros en un mundo medieval. El trabajo manual simple estuvo siempre a su lado junto con los latigazos de su amo. HECAP no aprendió a leer hasta tener nueve años.</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
 		<title>Pequeño señor medieval</title>
 		<titleShort>Señor</titleShort>
-		<desc>NAME era un noble menor en un reino antiguo en un mundo medieval. HECAP creció en una mansión hecha de piedra, servida por reverencia de clase baja. Tal vida no enseña habilidades técnicas e instila una aversión de por vida al trabajo manual - pero NAME aprendió temprano los modos de manipulación social.</desc>
+		<desc>NAME era un noble menor en un reino antiguo en un mundo medieval. HECAP creció en una mansión hecha de piedra, cuidada por serviciales criados. Tal vida no enseña habilidades técnicas y asienta una aversión de por vida al trabajo manual pero NAME aprendió rápidamente lo necesario para la vida social.</desc>
 	</MedievalLordling62>
 	<UrbworldUrchin46>
 		<title>Pilluelo de MundoUrbano</title>
 		<titleShort>Pilluelo</titleShort>
-		<desc>Los mundos urbanos - paisajes urbanos industriales antiguos y profundos repletos de humanidad y veneno. NAME creció en la oscuridad, accesos no deseados de tal lugar. HECAP tuvo que luchar por cada pedazo de comida.</desc>
+		<desc>Los mundos urbe son paisajes urbanos industriales antiguos y profundos repletos de personas y veneno. NAME creció en la oscuridad, lugar en el que nadie se atrevería a ir. HECAP tuvo que luchar para poder comer.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
-		<title>Soldado del cultivo oscuro</title>
-		<titleShort>Cultivo Oscuro</titleShort>
-		<desc>NAME no fue hecho como una persona, sino como un instrumento de destrucción. Crecido en una instalación de armas biológicas y enseñado a combatir durante su crecimiento acelerado, NAME todavía tiene una propensión al combate de todo tipo y una aversión al contacto humano.</desc>
+		<title>Soldado in vitro</title>
+		<titleShort>Soldado</titleShort>
+		<desc>NAME no fue creado como una persona, sino como un instrumento de destrucción. Creado en una instalación de armas biológicas y enseñado a combatir durante su crecimiento acelerado, NAME todavía tiene una propensión por cualquier tipo de combate y una aversión al contacto humano.</desc>
 	</VatgrownSoldier83>
 	<Hermit87>
 		<title>Ermitaño</title>
