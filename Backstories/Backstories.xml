@@ -2158,7 +2158,7 @@
 	<YoungPsychologist60>
 		<title>Joven psicólogo</title>
 		<titleShort>Psicoanalista</titleShort>
-		<desc>NAME nació y se crió en un MundoMedio pobre, en el asiento delantero del pasajero de la cabina de su madre. Observando a los peatones y escuchando a los pasajeros dle taxi todo el día, pronto se volvió muy bueno para entender el verdadero propósito de alguien.</desc>
+		<desc>NAME nació y se crió en un mundo estándar pobre, en el asiento delantero del pasajero del coche de su madre. Observando a los peatones y escuchando a los pasajeros del taxi todo el día, pronto se volvió muy bueno para entender el verdadero propósito de alguien.</desc>
 	</YoungPsychologist60>
 	<FactionLeader69>
 		<title>Líder de facciones</title>
@@ -2168,12 +2168,12 @@
 	<LabGrownChild20>
 		<title>Niño cultivado en el laboratorio</title>
 		<titleShort>Cultivado en el laboratorio</titleShort>
-		<desc>NAME nació en un laboratorio como parte de un intento altruista pero fallido de crear una nueva clase de humano. La infancia de HISCAP estuvo llena de libros y tutoría individual. Era torpe, tímido e ingenuo para con la verdadera naturaleza de la humanidad.</desc>
+		<desc>NAME nació en un laboratorio como parte de un intento altruista pero fallido de crear una nueva clase de humano. La infancia de HISCAP estuvo llena de libros y tutoría individual. Era torpe, tímido e ingenuo con la verdadera naturaleza de la humanidad.</desc>
 	</LabGrownChild20>
 	<CorpResearcher9>
 		<title>Investigador de Corporación</title>
 		<titleShort>Investigador</titleShort>
-		<desc>NAME fue vendido a una corporación y puesto a trabajar como un esclavo corporativo que hacía investigación científica. Incapaz de adaptarse a las políticas sociales de su lugar de trabajo, se enterró en su trabajo y no logró progresar en la escala corporativa. Todos los días deseaba quedarse solo.</desc>
+		<desc>NAME fue vendido a una empresa y puesto a trabajar como un esclavo corporativo que realizaba investigación científica. Incapaz de adaptarse a las políticas sociales de su lugar de trabajo, se enterró en su trabajo y no logró progresar en el escalafón empresarial. Todos los días deseaba quedarse solo.</desc>
 	</CorpResearcher9>
 	<TechScholar7>
 		<title>Erudito tecnico</title>
@@ -2267,18 +2267,18 @@
 	</ExoticChef84>
 	<PlagueProdigy12>
 		<title>Prodigio de plaga</title>
-		<titleShort>prodigio</titleShort>
-		<desc>La infancia de NAME fue cortada cuando una misteriosa plaga golpeó su mundo natal. HECAP vio a sus amigos morir, y su compasión por la humanidad murió con ellos. En su lugar surgió una nueva sed de conocimiento.</desc>
+		<titleShort>Prodigio</titleShort>
+		<desc>La infancia de NAME se vio perturbada cuando una misteriosa epidemia golpeó su mundo natal. HECAP vio a sus amigos morir, y su compasión por la humanidad murió con ellos. En su lugar surgió una nueva ansia de conocimiento.</desc>
 	</PlagueProdigy12>
 	<MadScientist79>
 		<title>Científico loco</title>
 		<titleShort>Científico</titleShort>
-		<desc>La lujuria por el conocimiento de NAME sólo fue igualada por su desdén hacia quien se interponga en su investigación. Viajando de mundo a mundo, buscó respuestas a preguntas que pocos se atrevieron a preguntar.</desc>
+		<desc>El ansia de conocimiento de NAME sólo se comparaba a su desdén hacia quien se interpusiera en su investigación. Viajando de mundo a mundo, buscó respuestas a preguntas que pocos se atrevieron a preguntar.</desc>
 	</MadScientist79>
 	<Dreamer11>
 		<title>Soñador</title>
 		<titleShort>Soñador</titleShort>
-		<desc>NAME era un niño expresivo. HECAP cantaba con frecuencia, y hacía amigos muy fácilmente, ya fueran jóvenes o viejos, hombres o mujeres. HECAP odiaba las peleas, pero cuando se enojaba, podia ser peligroso. El temperamento de HISCAP era volatil.</desc>
+		<desc>NAME era un niño expresivo. HECAP cantaba con frecuencia, y hacía amigos muy fácilmente, ya fueran jóvenes o viejos, hombres o mujeres. HECAP odiaba las peleas, pero cuando se enfadaba, podia ser peligroso. El temperamento de HISCAP era volatil.</desc>
 	</Dreamer11>
 	<SpaceExplorer81>
 		<title>Explorador espacial</title>
@@ -2288,102 +2288,102 @@
 	<UrbworldUrchin13>
 		<title>Pilluelo de MundoUrbano</title>
 		<titleShort>Pilluelo</titleShort>
-		<desc>Meredith nació en los barrios más oscuros de su mundo natal urbano. La negligenciada por parte de su madre, la llevó a aprender a sobrevivir sola, luchando por cada pedazo de comida que vio. Eventualmente, como su talento superó al de sus compañeros, ella ascendió de las profundidades a las calles de la superficie y dejó a su madre detrás.</desc>
+		<desc>NAME nació en los barrios más oscuros de su mundo urbe natal. La negligenciada por parte de su madre la llevó a aprender a sobrevivir sola, luchando por cada pedazo de comida. Más tarde, como su talento superó al de sus compañeros, ella ascendió de las profundidades a las calles a la superficie y dejó a su madre detrás.</desc>
 	</UrbworldUrchin13>
 	<Smuggler62>
 		<title>Contrabandista</title>
 		<titleShort>Contrabandista</titleShort>
-		<desc>Como piloto de contrato, Meredith tenía la habilidad de robar bienes y traficar sin ser atrapado. Ella finalmente ahorró lo suficiente para comprar su propia nave y la usó para viajar de mundo a mundo llevando sus productos en persona.</desc>
+		<desc>Como piloto de contrabando, NAME era muy capaz a la hora de robar bienes y traficar sin ser atrapado. El finalmente ahorró lo suficiente para comprar su propia nave y la usó para viajar de mundo a mundo llevando sus productos en persona.</desc>
 	</Smuggler62>
 	<MilitaryRecruit62>
 		<title>Recluta militar</title>
 		<titleShort>Recluta</titleShort>
-		<desc>NAME nació en un MundoMedio dirigido por una dictadura intensamente militarista. Desde muy joven, se le capacitó para ser un buen soldado. Le enseñaron cómo usar un arma y cómo luchar con armas cuerpo a cuerpo.</desc>
+		<desc>NAME nació en un Mundo estándar dirigido por una dictadura intensamente militarista. Desde muy joven, estaba capacitado para ser un buen soldado. Le enseñaron cómo usar un arma y cómo luchar con armas cuerpo a cuerpo.</desc>
 	</MilitaryRecruit62>
 	<DestroyerGeneral40>
 		<title>General destructor</title>
 		<titleShort>General</titleShort>
-		<desc>NAME tenía el rango de General Destructor en un poderoso ejército del medio mundo. HECAP era conocido por su dominio de las armas, y también era un buen piloto de naves.</desc>
+		<desc>NAME tenía el rango de General Destructor en un poderoso ejército de un mundo estándar. HECAP era conocido por su habilidad con las armas, y también era un buen piloto de naves.</desc>
 	</DestroyerGeneral40>
 	<StreetUrchin51>
 		<title>Pilluelo de la calle</title>
 		<titleShort>Pilluelo</titleShort>
-		<desc>Nacido en una familia pobre en un mundo urbano, NAME fue abandonado en las calles a una edad temprana. Aprendió a robar y matar para sobrevivir a las calles despiadadas, adquiriendo habilidades en combate cuerpo a cuerpo y combate a distancia. Había poco tiempo para hablar en su vida.</desc>
+		<desc>Nacido en una familia pobre en un mundo urbe, NAME fue abandonado en las calles a una edad temprana. Aprendió a robar y matar para sobrevivir en las despiadadas calles, aprendiendo a combatir en combate cuerpo a cuerpo y combate a distancia. Nunca tuvo mucho tiempo para hablar.</desc>
 	</StreetUrchin51>
 	<SerialMurderer52>
 		<title>Asesino en serie</title>
 		<titleShort>Asesina</titleShort>
-		<desc>NAME empezó a disfrutar matando a la gente, así que lo hizo más a menudo y perfeccionó sus métodos. Se escondía en las calles más oscuras, acechando a las presas durante horas. Le gustaba hacer obras de arte de sus víctimas, y era conocido por dejar su firma en los cuerpos de los que mató.</desc>
+		<desc>NAME empezó a disfrutar matando gente, así que lo hizo más a menudo y perfeccionó sus métodos. Se escondía en las calles más oscuras, acechando a sus presas durante horas. Le gustaba crear obras de arte con sus víctimas y era conocido por dejar su firma en los cuerpos de los que mató.</desc>
 	</SerialMurderer52>
 	<MedievalThief74>
 		<title>Ladrón medieval</title>
 		<titleShort>Ladrón</titleShort>
-		<desc>NAME creció pobre y hambriento en un planeta medieval, aprendiendo a defenderse por sí mismo. Al principio, sólo tomó lo que necesitaba. Luego aprendió a tomar lo que quería.</desc>
+		<desc>NAME creció pobre y hambriento en un planeta medieval, aprendiendo a defenderse por sí mismo. Al principio, sólo robaba lo que necesitaba. Luego aprendió a coger todo lo que quería.</desc>
 	</MedievalThief74>
 	<HumanTrafficker69>
 		<title>Traficante de personas</title>
 		<titleShort>Traficante</titleShort>
-		<desc>NAME robó a los niños de sus hogares para venderlos a compradores interesados. Con el tiempo, perdió el poco sentido moral que le quedaba.</desc>
+		<desc>NAME robó los niños de sus hogares para venderlos a compradores interesados. Con el tiempo, perdió el poco sentido moral que le quedaba.</desc>
 	</HumanTrafficker69>
 	<TraumatizedYouth62>
-		<title>Jóvenes traumatizados</title>
+		<title>Jóven traumatizado</title>
 		<titleShort>Trauma</titleShort>
-		<desc>NAME vivía en un agradable mundo intermedio. HISCAP prosthophobe madre cayó enfermo con enfermedad cardíaca. En la desesperación, el padre de NAME secuestró a personas inocentes y cosechó sus corazones. El padre de NAME fue arrestado, pero el niño permaneció marcado por la experiencia.</desc>
+		<desc>NAME vivía en un agradable mundo estándar. La prostofóbica made de HISCAP cayó enferma debido a una afección cardíaca. Desesperado, el padre de NAME secuestró personas inocentes y cosechó sus corazones. El padre de NAME fue arrestado, pero el niño quedó traumatizado por la experiencia.</desc>
 	</TraumatizedYouth62>
 	<MentalPatient64>
 		<title>Paciente mental</title>
 		<titleShort>Paciente</titleShort>
-		<desc>NAME fue colocado en un hospital psiquiátrico. Allí, él pasó su tiempo dedicado a las actividades tranquilizadoras del asilo. HECAP fue finalmente liberado, pero mantuvo su distancia emocional, su curiosidad sobre la anatomía humana, y su homónimo risa maníaca.</desc>
+		<desc>NAME fue enviado a un hospital psiquiátrico. Allí, pasaba el tiempo dedicado a las tranquilizadoras actividades del manicomio. HECAP finalmente fue liberado, pero ganó cierta distancia emocional, curiosidad sobre la anatomía humana, y un homónimo de risa maníaca.</desc>
 	</MentalPatient64>
 	<GalacticPage15>
-		<title>Page galáctico</title>
-		<titleShort>Página</titleShort>
-		<desc>NAME sirvió al almirante de una flota espacial. HECAP aprendió las maneras de la corte, incluyendo la etiqueta y speechcraft. En su sociedad feudal, se consideró un gran honor servir a un hombre de tal prestigio.</desc>
+		<title>Paje galáctico</title>
+		<titleShort>Paje</titleShort>
+		<desc>NAME sirvió al almirante de una flota espacial. HECAP aprendió las maneras de la corte, incluyendo etiqueta y oratoria. En su sociedad feudal, se consideraba un gran honor servir a un hombre de tal prestigio.</desc>
 	</GalacticPage15>
 	<EnvoyOfTheStars91>
 		<title>Enviado de las estrellas</title>
 		<titleShort>Enviado</titleShort>
-		<desc>NAME entró en el cuerpo diplomático. El honor y la tradición eran los valores que él tomaba con él en cada misión. La prestigiosa posición de HISCAP le distanció de la labor manual, lo que le permitió concentrarse en sus habilidades de dictado de palabras. Dejó la herrería a otros.</desc>
+		<desc>NAME entró en el cuerpo diplomático. El honor y la tradición eran los valores que llevaba consigo en cada misión. La prestigiosa posición de HISCAP le distanció del trabajo manual, lo que le permitió concentrarse en sus habilidades oratorias, dejandole el trabajo a otros.</desc>
 	</EnvoyOfTheStars91>
 	<ApprenticeSmith9>
-		<title>Aprendiz de forjador</title>
+		<title>Aprendiz de herrero</title>
 		<titleShort>Aprendiz</titleShort>
-		<desc>NAME creció ayudando en la herrería de su padre. Fueron algunos de los últimos herreros del planeta que utilizaron los métodos tradicionales de herrería. Incluso recogen algunos materiales ellos mismos. A veces, después del trabajo, NAME practicaba con espadas forjadas.</desc>
+		<desc>NAME creció ayudando en la herrería de su padre. Fueron algunos de los últimos herreros del planeta que utilizaron los métodos tradicionales de herrería. Incluso recogían algunos materiales ellos mismos. A veces, después del trabajo, NAME practicaba con las espadas que forjaba.</desc>
 	</ApprenticeSmith9>
 	<Blacksmith32>
 		<title>Herrero</title>
 		<titleShort>Herrero</titleShort>
-		<desc>Como herrero en un mundo medieval, NAME ganó una reputación por la alta calidad de su trabajo. HECAP tampoco era malo en el uso de las espadas que forjó.</desc>
+		<desc>Como herrero en un mundo medieval, NAME ganó una buena reputación por la alta calidad de sus trabajos. HECAP tampoco era malo con las espadas que forjó.</desc>
 	</Blacksmith32>
 	<CloneFarmed43>
 		<title>Clonado</title>
 		<titleShort>Desechable</titleShort>
-		<desc>Los niños clones son sembrados en wombvats orgánico-ricos y crecidos rápidamente en un universo simmed. Se cosechan más tarde, a veces para la alimentación, a veces para los órganos, a veces para los trabajadores - pero siempre se llaman "Desechables".</desc>
+		<desc>Los niños clones son sembrados en incubadoras potenciadas y con crecimiento acelerado en un universo simmed. Más tarde son cosechados, a veces para la alimentación, a veces por los órganos, a veces para convertirse en trabajadores - pero siempre los llaman "Desechables".</desc>
 	</CloneFarmed43>
 	<CloneFarmer72>
-		<title>Agricultor clon</title>
+		<title>Cultivador de clones</title>
 		<titleShort>Clonador</titleShort>
-		<desc>La recolección de los productos de las granjas de clones se realiza principalmente por los propios clones -particularmente a aquellos que tuviesen habilidad hacia lo social. Este clon era uno de esos, que escapó de las granjas y se dirigió a las estrellas.</desc>
+		<desc>La recolección de los productos de las granjas de clones se realiza principalmente por los propios clones -particularmente a aquellos que tienen habilidad cara lo social. Este clon era uno de esos, que escapó de las granjas y se dirigió a las estrellas.</desc>
 	</CloneFarmer72>
 	<GangMember12>
 		<title>Pandillero</title>
 		<titleShort>Chico de pandillas</titleShort>
-		<desc>NAME creció sin padres. HISCAP toda la vida se pasó solo, luchando por sobrevivir en las calles. No importa lo difícil que se convirtió para sobrevivir, nunca se dio por vencido.</desc>
+		<desc>NAME creció sin padres. HISCAP se pasó toda su vida solo, luchando por sobrevivir en las calles. No importaba lo difícil que fuera sobrevivir, nunca se dio por vencido.</desc>
 	</GangMember12>
 	<GangBoss0>
-		<title>Jefe de pandillas</title>
+		<title>Jefe de pandilla</title>
 		<titleShort>Jefe</titleShort>
-		<desc>Para sobrevivir, la pandilla de NAME a menudo tuvo que robar a los comerciantes interestelares por comida y suministros. A veces tenía que matar a los guardias. A veces tenía que matar a la policía que llegaba para detenerlo. Después de años de esto, se convirtió en uno de los criminales más buscados en el imperio estelar local.</desc>
+		<desc>Para sobrevivir, la pandilla de NAME a menudo tenía que robar comida y suministros a los comerciantes interestelares. A veces hasta tenían que matar a los guardias y otras veces tenía que matar a la policía que llegaba para detenerlo. Después de años haciendo esto, se convirtió en uno de los criminales más buscados en el imperio estelar local.</desc>
 	</GangBoss0>
 	<MilitantChild30>
-		<title>Niño militante</title>
+		<title>Niño militar</title>
 		<titleShort>Soldado</titleShort>
 		<desc>La familia militar de NAME lo obligó a entrenar en combate cuerpo a cuerpo y en tácticas de combate. En su tiempo libre, construia pequeños inventos. Esto agudizó su mente.</desc>
 	</MilitantChild30>
 	<LostMarine68>
-		<title>Marino perdido</title>
+		<title>Marine perdido</title>
 		<titleShort>Traidor</titleShort>
-		<desc>Poco después de ser promovido a una posición respetada en el ejército de su planeta, NAME desapareció sin dejar rastro. Más tarde, reapareció a la cabeza de su propia fuerza militar. Nadie sabe por qué se convirtió en quien era.</desc>
+		<desc>Poco después de ser ascendido a una posición importante en el ejército de su planeta, NAME desapareció sin dejar rastro. Más tarde, reapareció comandando su propia fuerza militar. Nadie sabe por qué se convirtió en quien era.</desc>
 	</LostMarine68>
 	<Killer70>
 		<title>Asesino</title>
@@ -2393,27 +2393,27 @@
 	<Healer46>
 		<title>Curandero</title>
 		<titleShort>Curandero</titleShort>
-		<desc>NAME se tomó el tiempo para admirar la belleza del mundo. Su agresividad pasiva surgió de vez en cuando, pero trató de adaptarse a su vida cambiante.</desc>
+		<desc>NAME se tomó algo de tiempo para admirar la belleza del mundo. Su agresividad pasiva surgió de vez en cuando, pero trató de adaptarse a su vida cambiante.</desc>
 	</Healer46>
 	<ProfessionalGamer86>
-		<title>Jugador profesional</title>
+		<title>Jugador profesional de videojuegos</title>
 		<titleShort>Jugador profesional</titleShort>
-		<desc>NAME estaba obsesionado con los videojuegos, ya que sus manos eran lo suficientemente grandes para agarrar un joystick. HECAP logró acabados medios en varios torneos locales durante la era de los 16 bits. Nadie lo notó cuando se retiró a principios de su adolescencia.</desc>
+		<desc>NAME estaba obsesionado con los videojuegos desde que sus manos eran lo suficientemente grandes para agarrar un joystick. HECAP consiguió algunas victorias en varios torneos locales durante la era de los 16 bits. A nadie le importó cuando se retiró a principios de su adolescencia.</desc>
 	</ProfessionalGamer86>
 	<ToasterRepairman81>
 		<title>Reparador de tostadoras</title>
 		<titleShort>Reparador</titleShort>
-		<desc>Bueno con sus manos y apasionado de la tecnología, NAME aspiraba a inventar gadgets y máquinas que cambiarían su mundo natal para siempre. Luego de unas pocas creaciones fallidas y ocasionalmente desastrosas, pudo lograr su sueño y tomó un trabajo más digno en lo que sabía hacer.</desc>
+		<desc>Bueno con sus manos y apasionado de la tecnología, NAME aspiraba a inventar aparatos y máquinas que cambiarían su mundo natal para siempre. Luego de unas pocas creaciones fallidas y ocasionalmente desastrosas, pudo lograr su sueño y consiguió un trabajo más digno en lo que sabía hacer.</desc>
 	</ToasterRepairman81>
 	<WolfPackMember79>
 		<title>Miembro de manada de lobos</title>
 		<titleShort>Salvaje</titleShort>
-		<desc>NAME fue abandonado por su familia. Criado por lobos, corrió, cazó, y defendió su manada. HECAP aprendió a luchar eficientemente con dientes y la garras. HECAP también aprendió estrategias de caza primitivas brutalmente efectivas.</desc>
+		<desc>NAME fue abandonado por su familia. Criado por lobos, corrió, cazó, y defendió su manada. HECAP aprendió a luchar eficientemente con uñas y dientes. HECAP también aprendió varias estrategias de caza primitivas brutalmente efectivas.</desc>
 	</WolfPackMember79>
 	<BehaviourResearch99>
 		<title>Investigador del comportamiento</title>
 		<titleShort>Científico</titleShort>
-		<desc>Capturado como un niño salvaje, NAME fue forzado a encaminarse en la sociedad moderna. HECAP rápidamente se adaptó y se convirtió en un investigador del comportamiento, eventualmente fue dueño de una instalación privada. HECAP se especializó en caninos, pero aprendió mucho sobre todos los animales. Sin embargo, HECAP nunca tuvo interés en las plantas.</desc>
+		<desc>Capturado como un niño salvaje, NAME fue forzado a encaminarse en la sociedad moderna. HECAP se adaptó rápidamente, se convirtió en un investigador del comportamiento y con el tiempo llego a ser dueño de una instalación privada. HECAP se especializó en caninos, pero aprendió mucho sobre todos los animales. Sin embargo, HECAP nunca tuvo interés en las plantas.</desc>
 	</BehaviourResearch99>
 	<RebelStudent39>
 		<title>Estudiante rebelde</title>
@@ -2431,72 +2431,72 @@
 		<desc>Nacido en el planeta Nueva China, el padre de NAME era un jefe de policía y mantenía una vigilancia extremadamente estricta sobre su hijo. NAME tenía que hacer ejercicios de estilo militar todos los días y mantener su habitación impecablemente limpia, siempre lista para una inspección. HECAP llegó a aborrecer la violencia.</desc>
 	</Cadet99>
 	<Flaneur73>
-		<title>Flaneur</title>
-		<titleShort>Flaneur</titleShort>
-		<desc>NAME paseaba y bebía cerveza a través de las calles y cafés de su mundo, persiguiendo la libertad a cada paso, nunca llegando a apegarse. A través de todo este tiempo, él permaneció desconfiado de los demás. Y nunca tomó una orden de nadie.</desc>
+		<title>Paseante</title>
+		<titleShort>Paseante</titleShort>
+		<desc>NAME paseaba y bebía cerveza en nemerosas calles y cafés de su mundo, persiguiendo la libertad a cada paso, sin llegar a sentir apego. Durante este tiempo, él se mostraba desconfiado de los demás y nunca recibió una orden de nadie.</desc>
 	</Flaneur73>
 	<ShipTechnician62>
 		<title>Técnico de buques</title>
 		<titleShort>Técnico</titleShort>
-		<desc>NAME era una aprendiz de técnico en buques comerciales que navegan por sus rutas entre las estaciones y los planetas de su sistema de origen. En este trabajo, aprendió a arreglar y mejorar muchas máquinas. A veces, su nave era asignada a viajes exploratorios cortos en regiones peligrosas del espacio.</desc>
+		<desc>NAME era una aprendiz de técnico en buques comerciales que navegan por rutas entre las estaciones espaciales y los planetas de su sistema de origen. En este trabajo, aprendió a arreglar y mejorar muchas máquinas. A veces, su nave era asignada a viajes de exploración cortos en regiones peligrosas del espacio.</desc>
 	</ShipTechnician62>
 	<ChiefEngineer74>
 		<title>Ingeniero jefe</title>
 		<titleShort>Ingeniero</titleShort>
-		<desc>Como ingeniero jefe a bordo de una gran nave espacial, NAME era un experto en todo lo complicado y complejo. Confió en otros miembros de la tripulación para algunas de las necesidades básicas de su vida. Ella y su nave finalmente desaparecieron en un largo viaje de exploración.</desc>
+		<desc>Como ingeniero jefe a bordo de una gran nave espacial, NAME era un experto en todo lo que fuera complicado y complejo. Confió en otros miembros de la tripulación para algunas de las necesidades básicas de su vida. Ella y su nave finalmente desaparecieron en un largo viaje de exploración.</desc>
 	</ChiefEngineer74>
 	<BlacksmithsSon72>
 		<title>Hijo de herrero</title>
 		<titleShort>Herrero</titleShort>
-		<desc>El padre de NAME era dueño de la herrería en un viejo distrito de la ciudad. NAME ayudaba a su padre cuando podia. Más tarde, su padre lo tomó como aprendiz de herrero y lo crió como un hombre. NAME también aprendió a disparar, como hobby.</desc>
+		<desc>El padre de NAME era dueño de la herrería en un viejo distrito de la ciudad. NAME ayudaba a su padre cuando podía. Más tarde, su padre lo tomó como aprendiz de herrero y lo crió como un hombre. NAME también aprendió a disparar, como hobby.</desc>
 	</BlacksmithsSon72>
 	<BlacksmithShooter88>
-		<title>Tirador herrero</title>
+		<title>Armero</title>
 		<titleShort>Armero</titleShort>
-		<desc>Como joven herrero, la tienda familiar de NAME fue allanada por la policía. HECAP disparó contra dos oficiales antes de que lo golpearan y lo arrestaran. Condenado a cadena perpetua, NAME se enteró de los viajes y las incursiones de otros criminales.</desc>
+		<desc>Como joven armero, la tienda familiar de NAME fue allanada por la policía. HECAP disparó contra dos oficiales antes de que lo golpearan y se lo llevaran. Condenado a cadena perpetua, NAME se enteró de los viajes y las incursiones de otros criminales.</desc>
 	</BlacksmithShooter88>
 	<JoywireAddict71>
-		<title>Adicto a los cables de felicidad</title>
+		<title>Adicto a los chips de la felicidad</title>
 		<titleShort>Adicto</titleShort>
-		<desc>Los ricos padres de NAME proporcionaron todo lo que él siempre quiso. Después de descubrir los 'cables de felicidad' (Dispositivo que se instala en el cerebro, y causa una fuerte sensación de felicidad), se obsesionó. Una vez que sus padres se dieron cuenta de lo que pasó, lo cortaron. Despreocupado y, a menudo, violento, buscó su arreglar su proximo 'cable de felicidad' por cualquier medio posible.</desc>
+		<desc>Los ricos padres de NAME le proporcionaron todo lo que siempre quiso. Después de descubrir los 'chips de la felicidad' (Dispositivo que se instala en el cerebro, y causa una fuerte sensación de felicidad), se obsesionó. Una vez que sus padres se dieron cuenta de lo que pasó, lo echaron de casa. Despreocupado y, a menudo, violento, buscaba su proxima dósis de 'chips de la felicidad' por cualquier medio posible.</desc>
 	</JoywireAddict71>
 	<AddictionCounsel61>
-		<title>Consejero de adicción</title>
-		<titleShort>Consejero</titleShort>
-		<desc>Después de recuperarse de una adicción de 'cable de felicidad', NAME adoptó un estilo de vida no violento y prometió ayudar a otros. Viajando entre comunidades, utilizó la medicina, las artes y la artesanía para ayudar a otros que luchaban con sus propias adicciones.</desc>
+		<title>Terapeuta de adicción</title>
+		<titleShort>Terapeuta</titleShort>
+		<desc>Tras recuperarse de la adicción a los 'chips de la felicidad', NAME adoptó un estilo de vida no violento y prometió ayudar a otros. Viajando entre comunidades, utilizó la medicina, las artes y la artesanía para ayudar a otros que luchaban con sus propias adicciones.</desc>
 	</AddictionCounsel61>
 	<ChildKnave65>
-		<title>Hijo de puta</title>
+		<title>Hijo bastardo</title>
 		<titleShort>Bribón</titleShort>
-		<desc>NAME era un hijo de puta del rey Loteric. HECAP disfrutó de la formación con palos de madera y la participación de otros en combate cuerpo a cuerpo. HECAP se adaptó rápidamente al calor de la batalla y fue bueno en extender el fuego. HECAP sirvió bien a su señor, hasta que el rey murió en un desafortunado accidente.</desc>
+		<desc>NAME era el hijo bastardo del rey Loteric. HECAP disfrutó de su entrenamiento con palos de madera y la participando de otras formas en combate cuerpo a cuerpo. HECAP se adaptó rápidamente al calor de la batalla y fue bueno en extender el fuego. HECAP sirvió bien a su señor hasta que el rey murió en un desafortunado accidente.</desc>
 	</ChildKnave65>
 	<BloodgameSurvivor96>
-		<title>Superviviente de 'los juego de sangre'</title>
+		<title>Superviviente de 'los juegos sangrientos'</title>
 		<titleShort>Jugardor</titleShort>
-		<desc>NAME fue vendido a 'Corestars Entertainment Company' y utilizado como carne en uno de los programas de transmisión de la compañía. La naturaleza manipuladora de HISCAP lo hizo una pesadilla, incluso para la audiencia. Fue expulsado y exiliado a un planeta lleno de animales mortales, criminales y aviones armados teledirigidos.</desc>
+		<desc>NAME fue vendido a 'Corestars Entertainment Company' y utilizado como peón uno de los programas transmitidos por la compañía. La naturaleza manipuladora de HISCAP lo convirtió en una pesadilla incluso para la audiencia. Fue expulsado y exiliado a un planeta lleno de animales mortales, criminales y aviones armados teledirigidos.</desc>
 	</BloodgameSurvivor96>
 	<WastelandWanderer2>
-		<title>Vagabundo de la tierra baldía</title>
+		<title>Vagabundo de los yermos</title>
 		<titleShort>Vagabundo</titleShort>
-		<desc>Nacido en una familia adinerada en un mundo desértico, NAME fue expulsado después de que un escuadrón de ataque contratado destruyera su casa ancestral. El muchacho logró esconderse en un conducto de enfriamiento bajo la villa de su familia. Buscando venganza contra los asesinos y quienquiera que los hubiera contratado, Lucas salió al desierto, solo.</desc>
+		<desc>Nacido en una familia adinerada en un mundo desértico, NAME fue expulsado después de que un escuadrón de ataque contratado destruyera su hogar ancestral. El muchacho logró esconderse en un conducto de ventilación debajo de la villa familiar. Buscando venganza contra los asesinos y quienquiera que los hubiera contratado, Lucas salió al yermo solo.</desc>
 	</WastelandWanderer2>
 	<VoidspaceRaider8>
-		<title>Asaltante del espacio</title>
-		<titleShort>Asaltante</titleShort>
-		<desc>Después de años de buscar al asesino que dividió a su familia, a NAME le fue ofrecido un lugar con un grupo de asaltantes de transportes espaciales. Aceptó, con la esperanza de encontrar al asesino que buscaba. Debido a su capacidad aparentemente interminable de escapar por poco del peligro, obtuvo el apodo de "Blackjack" en reconocimiento a su suerte.</desc>
+		<title>Bandolero espacial</title>
+		<titleShort>Bandolero</titleShort>
+		<desc>Después de años buscando al asesino que dividió a su familia, a NAME le fue ofrecido un lugar con un grupo de bandoleros que asaltaban transportes espaciales. Aceptó con la esperanza de encontrar al asesino que buscaba. Debido a su capacidad aparentemente interminable de escapar por poco del peligro, obtuvo el apodo de "Blackjack" en reconocimiento a su suerte.</desc>
 	</VoidspaceRaider8>
 	<PyroAssistant17>
-		<title>Asistente piromaniaco</title>
+		<title>Asistente pirómano</title>
 		<titleShort>Ayudante</titleShort>
-		<desc>En un mundo industrial, NAME aprendió temprano que si él quería comer, tenía que trabajar. Así se vlvió ese su trabajo. Los niños encajan en lugares que los adultos no pueden, y de dónde él era, las leyes de seguridad eran bastante flexibles. HECAP era siempre un poco de PiroManiaco, y fue prohibido en la cocina después de un incidente desafortunado.</desc>
+		<desc>En un mundo industrial, NAME aprendió rápidamente que si quería comer, tenía que trabajar. Ese se convirtió en su trabajo. Los niños encajan en lugares que los adultos no pueden, y de dónde él estaba, las leyes de seguridad eran bastante flexibles. HECAP era siempre fue un pirómano, y se le prohibió entrar en la cocina después de un desafortunado incidente.</desc>
 	</PyroAssistant17>
 	<MachineFixer97>
-		<title>Máquina fijadora</title>
-		<titleShort>Fijador</titleShort>
-		<desc>NAME era experto en arreglar problemas mecánicos, siempre y cuando el problema no estuviera en la cocina. Después de pasar su vida rodeada de maquinaria peligrosa y sustancias químicas inflamables, aprendió a recuperarse muy bien. A pesar del dolor, nunca aprendió a disgustar al fuego.</desc>
+		<title>Reparador de maquinaria</title>
+		<titleShort>Reparador</titleShort>
+		<desc>NAME era experto en arreglar problemas mecánicos, siempre y cuando el problema no estuviera en la cocina. Después de pasar su vida rodeada de maquinaria peligrosa y sustancias químicas inflamables, aprendió a recuperarse muy bien. A pesar del dolor, nunca aprendió a odiar el fuego.</desc>
 	</MachineFixer97>
 	<StreetUrchin39>
-		<title>Pilluelo de la calle</title>
+		<title>Pilluelo callejero</title>
 		<titleShort>Timador</titleShort>
 		<desc>Después de huir de casa, NAME tuvo que vivir en las calles. HECAP creció rápido y aprendió rápidamente que tenía que averiguar cómo engañar a la gente para ganarse la vida.</desc>
 	</StreetUrchin39>
@@ -2508,12 +2508,12 @@
 	<ChildChemist73>
 		<title>Niño químico</title>
 		<titleShort>Químico</titleShort>
-		<desc>Un niño de medio mundo, NAME se fijó en saber exactamente cómo funcionaba todo. HECAP coleccionó objetos raros y realizó experimentos peligrosos con ellos. Profundizando en estos experimentos, se aisló del resto del mundo. HECAP sólo abandonaba su área de investigación para recoger más materiales.</desc>
+		<desc>Como niño de un mundo estándar, NAME se fijó en saber exactamente cómo funcionaba todo. HECAP coleccionó objetos raros y realizó experimentos peligrosos con ellos. Profundizando en estos experimentos, se aisló del resto del mundo. HECAP sólo abandonaba su área de investigación para recoger más materiales.</desc>
 	</ChildChemist73>
 	<BeastSlayer8>
 		<title>Cazabestias</title>
 		<titleShort>Cazador</titleShort>
-		<desc>NAME viajó entre planetas, siguiendo noticias de ataques de animales. HECAP acampó en un planeta durante semanas, aprendiendo sobre su presa antes de atacar. HECAP disfrutó especialmente cazando Thrumbos. Como preferia trabajar solo, NAME disfrutó de la emoción de la caza y de la matanza.</desc>
+		<desc>NAME viajó entre planetas, siguiendo las noticias de ataques de animales. HECAP acampó en un planeta durante semanas, aprendiendo sobre su presa antes de atacar. HECAP disfrutó especialmente cazando Thrumbos. Como preferia trabajar solo, NAME disfrutó de la emoción de la caza y de la matanza.</desc>
 	</BeastSlayer8>
 	<BrothelGofer60>
 		<title>Recadero de burdel</title>
