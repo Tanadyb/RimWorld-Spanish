@@ -311,7 +311,7 @@
 		<desc>En los mundos industriales, la riqueza se concentra en manos de los propietarios de las fábricas y de los que venden las mercancías. NAME trabajaba en la mansión de una familia rica, cuidando los suntuosos jardines como parte de un equipo de criados.</desc>
 	</Gardener25>
 	<MafiaBoss49>
-		<title>Jefe de la mafia</title>
+		<title>Jefe mafioso</title>
 		<titleShort>Jefe</titleShort>
 		<desc>NAME era un miembro de alto rango de un sindicato del crimen urbano. HECAP sobornó a los funcionarios, mantuvo la lealtad de sus subordinados, y recuperó los pagos atrasados ​​- por cualquier medio necesario.</desc>
 	</MafiaBoss49>
@@ -383,10 +383,10 @@
 	<MedicalAssistant75>
 		<title>Asistente médico</title>
 		<titleShort>Médico</titleShort>
-		<desc>NAME nació durante una guerra catastrófica en la que ambos lados usaron napalm extensivamente. HECAP creció ayudando a sus padres en una enfermería, tratando la cascada de quemaduras horribles de los campos de batalla. HECAP quedó con un miedo permanente al fuego.</desc>
+		<desc>NAME nació durante una guerra catastrófica en la que ambos lados usaron napalm extensivamente. HECAP creció ayudando a sus padres en una enfermería, tratando las aparentemente infinitas y horribles quemaduras de los soldados. HECAP quedó permanente aterrorizado del fuego.</desc>
 	</MedicalAssistant75>
 	<CultChild15>
-		<title>Hijo culto</title>
+		<title>Hijo del culto</title>
 		<titleShort>Niño Culto</titleShort>
 		<desc>NAME nació en un poderoso culto que evitaba la tecnología avanzada y creía que toda enfermedad podía curarse limpiando el alma a través del sagrado. Después de su primera visión del mundo exterior, HE decidió escapar.</desc>
 	</CultChild15>
@@ -408,7 +408,7 @@
 	<Sailor53>
 		<title>Marinero</title>
 		<titleShort>Marinero</titleShort>
-		<desc>NAME atravesó los océanos en viajes de exploración, buscando especímenes de plantas y animales de lugares exóticos, y ocasionalmente defendiendose de piratas. HECAP amaba el mar tanto que se negó a hacer todo menos el mínimo de trabajo en tierra, excepto para vender los tesoros que recogió.</desc>
+		<desc>NAME atravesó los océanos en viajes de exploración, buscando especímenes de plantas y animales en lugares exóticos y, ocasionalmente, defendiendose de piratas. HECAP amaba el mar tanto que se negó a hacer todo excepto el más mínimo del trabajo en tierra, excepto para vender los tesoros que recogió.</desc>
 	</Sailor53>
 	<Jailbird93>
 		<title>Presidiario</title>
@@ -1828,12 +1828,12 @@
 	<SpaceSmuggler10>
 		<title>Contrabandista del espacio</title>
 		<titleShort>Contrabandista</titleShort>
-		<desc>Los padres de Tater lo usaron para ayudar a contrabandear entre un grupo de Rimworlds Ayudado por su tamaño pequeño, Tater llegó a ser muy hábil en llevar a cabo las misiones de sus padres, aprendiendo sobre el armamento, las negociaciones, y sobre todo el contrabando.</desc>
+		<desc>Los padres de NAME lo utilizaron para ayudar a pasar contrabando entre un grupo de mundos limítrofes. Ayudado por su pequeño tamaño, NAME llegó a ser muy hábil llevando a cabo las misiones de sus padres, aprendiendo sobre armamento, a negociaciar y sobre todo, el contrabando.</desc>
 	</SpaceSmuggler10>
 	<SpaceRaider65>
-		<title>Asaltante espacial</title>
+		<title>Bandido espacial</title>
 		<titleShort>Asaltante</titleShort>
-		<desc>Tater era el líder de un equipo de piratas espaciales. Saltando entre los Rimworlds, se convirtió en el temido enemigo de muchos asentamientos.</desc>
+		<desc>NAME era el líder de un equipo de piratas espaciales. Saltando entre mundos limítrofes, se convirtió en el temido enemigo de muchos asentamientos.</desc>
 	</SpaceRaider65>
 	<Abductee2>
 		<title>Abducido</title>
@@ -1843,57 +1843,57 @@
 	<Spy40>
 		<title>Espía</title>
 		<titleShort>Espía</titleShort>
-		<desc>NAME fue entrenado por su gobierno en infiltración y espionaje. HECAP aprendió a mantener cabeza fría y a hablar de su salida de situaciones difíciles. Cuando hablar no funcionaba, era capaz de una acción directa más violenta.</desc>
+		<desc>NAME fue entrenado por su gobierno en infiltración y espionaje. HECAP aprendió a mantener cabeza fría y a solucionar situaciones difíciles con palabras. Cuando hablar no funcionaba, era capaz de una acción directa más violenta.</desc>
 	</Spy40>
 	<BlessedChild86>
 		<title>Niño bendecido</title>
 		<titleShort>Bendito</titleShort>
-		<desc>NAME nació bajo circunstancias auspiciosas a un grupo espiritual del mundo medio y se mantuvo en reverencia durante toda su infancia. HECAP aprendió a cuidar de los pobres y dar socorro a los fieles desde una edad temprana.</desc>
+		<desc>NAME nació bajo circunstancias auspiciosas en un grupo espiritual de un mundo estándar y se fue reverenciado durante toda su infancia. HECAP aprendió a cuidar de los pobres y dar auxilio a los fieles desde una temprana edad.</desc>
 	</BlessedChild86>
 	<WanderingHealer6>
 		<title>Curandero errante</title>
 		<titleShort>Curandero</titleShort>
-		<desc>NAME estudió para ser médico, pero estaba insatisfecho con su práctica en un medioambiente pacífico. En lugar de eso, él escogió sacar raíces y viajar a los mundos del borde para cuidar a las personas que lo necesitaban más.</desc>
+		<desc>NAME estudió para ser médico, pero estaba insatisfecho con su práctica en un entorno pacífico. En lugar de eso, decidió dejarlo todo atrás y viajar a los mundos limítrofes para cuidar a personas más necesitadas.</desc>
 	</WanderingHealer6>
 	<YouthSoldier99>
-		<title>Soldado joven</title>
+		<title>Joven soldado</title>
 		<titleShort>Soldado</titleShort>
-		<desc>NAME nació en una larga línea de soldados. Él siguió ese patrimonio, uniéndose a un programa de entrenamiento militar. Se destacó en todos los programas de entrenamiento físico en su curso de Marina, e incluso pasó la mayoría de los exámenes intelectuales. Aunque nunca fue particularmente brillante ni ágil, NAME aprendió el valor del trabajo duro y el sufrimiento.</desc>
+		<desc>NAME nació en una larga familia de soldados. Él siguió con esa tradición, uniéndose a un programa de entrenamiento militar. Destacó en todos los programas de entrenamiento físico en su curso de Marine, e incluso superó la mayoría de los exámenes intelectuales. Aunque nunca fue particularmente brillante ni ágil, NAME aprendió el valor del trabajo duro y el sufrimiento.</desc>
 	</YouthSoldier99>
 	<VeteranSoldier2>
-		<title>SoldadoD veterano</title>
+		<title>Soldado veterano</title>
 		<titleShort>Soldado</titleShort>
-		<desc>NAME luchó muchas veces contra piratas, rebeldes y xenos. Él soportó la gloria y los horrores de la guerra. Desgastado por los ejercicios, las guerras, y las cicatrices de la batalla, NAME "se retiró" a la vida fácil del soldado de colonia. Pasó sus días puliendo sus medallas de guerra, sabiendo que había hecho a su línea de sangre, orgullosa.</desc>
+		<desc>NAME luchó muchas veces contra piratas, rebeldes y xenos. Él fue testigo la gloria y los horrores de la guerra. Hastiado por los ejercicios, las guerras, y las cicatrices de la batalla, NAME "se retiró" a la vida fácil del soldado colonial. Pasó sus días puliendo sus medallas de guerra, sabiendo que había hecho que su familia se sintiera orgullosa.</desc>
 	</VeteranSoldier2>
 	<GlitterworldKid84>
-		<title>Hijo de MundoBrillante</title>
+		<title>Niño de mundo brillante</title>
 		<titleShort>Chico MundoBrillante</titleShort>
-		<desc>El hijo de un "compañero perfecto" genéticamente modificado en un MundoBrillante, Chaz era mucho más tímido, retraído y nervioso que sus padres. HECAP se mantuvo principalmente ocupandose de sí mismo, estudiando ciencias y medicina, y tomando la jardinería como un hobby. En su adolescencias, se escapó de su hogar, buscando una vida más tranquila.</desc>
+		<desc>El hijo de un "compañero perfecto" genéticamente modificado en un mundo brillante, NAME era mucho más tímido, retraído y nervioso que sus padres. HECAP se mantuvo ocupado principalmente estudiando ciencia, medicina y haciendo jardinería como afición. En su adolescencia, se escapó de su hogar, buscando una vida más tranquila.</desc>
 	</GlitterworldKid84>
 	<CosmeticReject89>
-		<title>Rechazo cosmético</title>
+		<title>Sujeto de pruebas cosmético</title>
 		<titleShort>Rechazado</titleShort>
-		<desc>Viviendo en las calles, Chaz se sometió a un laboratorio de cosméticos poco ético a cambio de comida y refugio. Después de alguna modificación cosmética dolorosa, Chaz apenas se parece a su yo anterior. Habiendo sido obligado a trabajar para el laboratorio hasta que fue rescatado, Chaz está ahora demasiado asustado para atacar a alguien.</desc>
+		<desc>Viviendo en las calles, NAME decidió trabajar para un laboratorio de cosméticos poco ético a cambio de comida y refugio. Después de alguna dolorosa modificación cosmética, NAME apenas se parece a su yo anterior. Al ser obligado a trabajar para el laboratorio hasta que fue rescatado, NAME es demasiado asustadizo como para atacar a alguien.</desc>
 	</CosmeticReject89>
 	<FeralChild73>
 		<title>Niño salvaje</title>
-		<titleShort>Sobreviviente</titleShort>
-		<desc>NAME y su familia vivieron una vida dura pero próspera junto con sus compañeros colonos en un mundo lejano. Un día un grupo de mecanoides atacó, matando a todo el mundo aparte de Robert. Entonces vivió solo en el desierto hasta que un grupo de invasores lo encontraron.</desc>
+		<titleShort>Superviviente</titleShort>
+		<desc>NAME y su familia vivieron una vida dura pero próspera junto con sus compañeros colonos en un mundo lejano. Un día un grupo de mecanoides atacó, matando a todo el mundo aparte de NAME. Desde entonces vivió solo en la naturaleza hasta que un grupo de invasores lo encontraron.</desc>
 	</FeralChild73>
 	<RaiderKing70>
-		<title>Rey asaltante</title>
+		<title>Rey bandido</title>
 		<titleShort>Asaltante</titleShort>
-		<desc>Comenzando como nada más un esclavo, NAME se elevó rápidamente entre las filas de los invasores hasta que todos conocieron su nombre y su despiadada forma de ser.</desc>
+		<desc>Comenzando como un esclavo, NAME se elevó rápidamente entre las filas de los invasores hasta que todos conocieron su nombre y su despiadada forma de ser.</desc>
 	</RaiderKing70>
 	<Scout86>
 		<title>Explorador</title>
 		<titleShort>Explorador</titleShort>
-		<desc>A Nate le gustaba estar al aire libre. Sus padres lo inscribieron en un programa que enseñaba habilidades de exploración militar. Él prosperó cuando se quedó solo en el desierto. Debido a esta educación, sin embargo, NAME no aprendió las habilidades tecnológicas básicas que son dadas por sentado por muchos otros.</desc>
+		<desc>A NAME le gustaba estar al aire libre. Sus padres lo inscribieron en un programa que enseñaba habilidades de exploración militar. Él sobrevivió cuando se quedó solo en la espesura. Debido a esta educación, sin embargo, NAME no aprendió las habilidades tecnológicas básicas que son dadas por sentado por muchos otros.</desc>
 	</Scout86>
 	<FrontierMarshal75>
-		<title>Mariscal de la frontera</title>
+		<title>Sheriff fronterizo</title>
 		<titleShort>Mariscal</titleShort>
-		<desc>Nate era el mariscal de su colonia. Trató de respetar honorablemente la ley, pero el alcalde local corrupto mató a su familia y lo dejó medio muerto. Después de recuperar su salud, Nate arrestó al alcalde. HECAP dejó su mundo natal y comenzó una nueva vida trabajando para hacer una diferencia en el universo.</desc>
+		<desc>NAME era el mariscal de su colonia. Trató de respetar honorablemente la ley, pero el alcalde local corrupto mató a su familia y lo dejó medio muerto. Después de recuperar su salud, NAME arrestó al alcalde. HECAP dejó su mundo natal y comenzó una nueva vida trabajando para marcar la diferencia en el universo.</desc>
 	</FrontierMarshal75>
 	<TraineeAlchemist98>
 		<title>Aprendiz Alquimista</title>
@@ -1903,137 +1903,137 @@
 	<ReligiousHierarch42>
 		<title>Jerarca religioso</title>
 		<titleShort>Jerarca</titleShort>
-		<desc>Ordenado como sacerdote en su comunidad local, NAME usó la intriga y la diplomacia para subir al escalón más alto del clero. Tenía numerosos títulos y tierras. Un día, un comerciante aterrizó su nave espacial cerca de la casa de NAME. HECAP decidió acompañar al comerciante en la búsqueda de nuevos mundos y desafíos.</desc>
+		<desc>Ordenado como sacerdote en su comunidad local, NAME usó la política y la diplomacia para subir al escalafón más alto del clero. Tenía numerosos títulos y tierras. Un día, un comerciante aterrizó con su nave espacial cerca de la casa de NAME. HECAP decidió acompañar al comerciante en la búsqueda de nuevos mundos y desafíos.</desc>
 	</ReligiousHierarch42>
 	<Pickpocket96>
 		<title>Carterista</title>
 		<titleShort>Ladrón</titleShort>
-		<desc>NAME fue testigo del asesinato de sus padres a una edad temprana. Sin guía, tenía que arreglárselas para sí mismo de cualquier manera posible. Al unirse a un pequeño grupo de inadaptados, hizo lo que fuera necesario para sobrevivir.</desc>
+		<desc>NAME fue testigo del asesinato de sus padres a una temprana edad. Sin guía, tenía que arreglárselas por sí mismo de cualquier manera posible. Al unirse a un pequeño grupo de inadaptados, hizo lo que fuera necesario para sobrevivir.</desc>
 	</Pickpocket96>
 	<CriminalSurgeon8>
-		<title>Cirujano criminal</title>
+		<title>Cirujano clandestino</title>
 		<titleShort>Cirujano</titleShort>
-		<desc>Al estar cerca de muchos compañeros criminales heridos, NAME se encargó de trabajar en ellos. Aunque muchas personas murieron, mejoró en el uso de cuchillos.</desc>
+		<desc>Al estar cerca de muchos compañeros criminales heridos, NAME se encargó de trabajar con ellos. Aunque muchas personas murieron, mejoró a la hora de usar cuchillos.</desc>
 	</CriminalSurgeon8>
 	<SpaceCadet12>
-		<title>Cadete del espacio</title>
-		<titleShort>cadete</titleShort>
-		<desc>Crecer en una granja rural deja poca oportunidad para la emoción y la aventura, por lo que cuando la flota real comenzó un programa de reclutamiento en su planeta natal, Jake tiró su azada y dejo al ganado para tomar las armas por la corona. Sirvió en el super-destructor interplanetario HMS Thunder-Child.</desc>
+		<title>Cadete espacial</title>
+		<titleShort>Cadete</titleShort>
+		<desc>Crecer en una granja rural deja poca oportunidad para la emoción y la aventura, por lo que cuando la flota real comenzó un programa de reclutamiento en su planeta natal, NAME dejó a un lado su azada y el ganado para tomar las armas por la corona. Sirvió en el super-destructor interplanetario HMS Thunder-Child.</desc>
 	</SpaceCadet12>
 	<SanitationCaptain28>
-		<title>Capitán de sanidad</title>
-		<titleShort>Portero </titleShort>
-		<desc>Después de graduarse de la escuela de entrenamiento de oficiales, Jake fue asignado a la cubierta de batalla principal en el Thunder-Child. Él sirvió allí por un año antes de que por sus "galantes" acciones lo reasignaran al cuerpo de mantenimiento. Fue con el cuerpo de mantenimiento que fue apodado 'Mesa' por sus piernas.</desc>
+		<title>Capitán de mantenimiento</title>
+		<titleShort>Conserje</titleShort>
+		<desc>Después de graduarse de la escuela de entrenamiento de oficiales, NAME fue asignado a la cubierta de batalla principal en el Thunder-Child. Sirvió allí durante un año antes de que por sus "valientes" acciones lo reasignaran al cuerpo de mantenimiento. Una vez en mantenimiento fue apodado 'Mesa' por sus piernas.</desc>
 	</SanitationCaptain28>
 	<Naturalist25>
-		<title>Naturalista</title>
-		<titleShort>Naturalista</titleShort>
-		<desc>Mitch creció en un planeta remanso con educación mínima. Tuvo que cazar y cultivar alimentos para sobrevivir. La casa de la familia HISCAP fue frecuentemente saqueada por los carroñeros. Esto hizo a Mitch muy sospechoso y lento para confiar en alguien que no conoce.</desc>
+		<title>Naturista</title>
+		<titleShort>Naturista</titleShort>
+		 <desc>NAME creció en un planeta pacífico con una educación mínima. Tuvo que cazar y cultivar alimento para sobrevivir. La casa de la familia HISCAP era frecuentemente saqueada por aprovechados. Esto hizo que NAME fuera muy desconfiado y le costara confiar en alguien desconocido.</desc>
 	</Naturalist25>
 	<OverwatchSniper73>
-		<title>Francotirador de sobrevuelo</title>
+		<title>Francotirador vigilante</title>
 		<titleShort>Francotirador</titleShort>
-		<desc>NAME no sabía por qué se unió al ejército, pero se quedó para proteger a sus compañeros soldados. La vida de ejército lo destruyó y lo construyó de nuevo. Le enseñaron a disparar, combate cuerpo a cuerpo y a cómo remendar una herida de bala con prisa.</desc>
+		<desc>NAME no sabía por qué se unió al ejército, pero se quedó para proteger a sus camaradas soldados. La vida de ejército lo destruyó y lo construyó de nuevo. Le enseñaron a disparar, combate cuerpo a cuerpo y a cómo curar una herida de bala rápidamente.</desc>
 	</OverwatchSniper73>
 	<Drudge47>
-		<title>Esclavo</title>
-		<titleShort>Esclavo</titleShort>
-		<desc>NAME nunca estuvo seguro de lo que quería hacer con su vida. HECAP pasó la mayor parte de su tiempo haciendo trabajos de bajo salario y preguntándose cómo sería su futuro. HECAP se entretuvo con sims espaciales y juegos de supervivencia, soñando con un día en algún lugar más interesante.</desc>
+		<title>Currito</title>
+		<titleShort>Currito</titleShort>
+		<desc>NAME nunca estuvo seguro de lo que quería hacer con su vida. HECAP pasó la mayor parte de su tiempo haciendo trabajos por poco dineroo y preguntándose cómo sería su futuro. HECAP se entretuvo con simuladores espaciales y juegos de supervivencia, soñando con que algún día estarían en algún lugar más interesante.</desc>
 	</Drudge47>
 	<GalacticSightseer55>
-		<title>Excursionista galáctico</title>
+		<title>Turista galáctico</title>
 		<titleShort>Turista</titleShort>
-		<desc>NAME viajó por las estrellas. HECAP apenas podía raspar los gastos de viaje haciendo trabajos extraños en las estaciones, pero todo valía la pena. Viendo las maravillas de la galaxia fue donde encontró su llamado. A HECAP le encantaba acampar en mundos exóticos y aprender los patrones de la vida silvestre extraña. Las maravillas del universo lo inspiraron como nada más.</desc>
+		<desc>NAME viajó por las estrellas. HECAP apenas podía cubrir los gastos del viaje haciendo trabajos extraños en las estaciones espaciales, pero todo valía la pena. Viendo las maravillas de la galaxia fue donde descubrió lo que quería hacer. A HECAP le encantaba acampar en mundos exóticos y aprender los patrones de la extraña vida silvestre. Las maravillas del universo lo inspiraron más que cualquier cosa.</desc>
 	</GalacticSightseer55>
 	<ChildOfDrifters15>
 		<title>Hijo de vagabundos</title>
 		<titleShort>Vagabundo</titleShort>
-		<desc>Desde que era muy pequeño, NAME nunca había conocido un hogar más allá de la nave de su padre. Eran una familia de nómadas cuyos meandros proporcionaban un constante cambio de escenario. La vida de HISCAP era a menudo peligrosa pero nunca aburrida, y heredó el deseo de sus padres de vagabundear a una joven edad.</desc>
+		<desc>Desde que era muy pequeño, NAME nunca había conocido un hogar más allá de la nave de su padre. Eran una familia de nómadas cuyos meandros hacían que el paisaje cambiara constantemente. La vida de HISCAP era a menudo peligrosa pero nunca aburrida, y heredó el deseo de sus padres de viajar desde una temprana edad.</desc>
 	</ChildOfDrifters15>
 	<WanderingCrafter28>
 		<title>Artesano errante</title>
 		<titleShort>Artesano</titleShort>
-		<desc>NAME siguió los caminos nómadas de sus padres, apoyándose en sus habilidades de artesanía. Pero vagar es una vida dura, y a menudo pensaba en encontrar un lugar para establecerse y poner sus habilidades a buen uso.</desc>
+		<desc>NAME siguió la forma de vida nómada de sus padres, utilizando sus habilidades para la artesanía. Pero vagar es una vida dura, y a menudo pensaba en encontrar un lugar para establecerse y darle buen uso a sus habilidades.</desc>
 	</WanderingCrafter28>
 	<TribalThunderer25>
-		<title>Trueno tribal</title>
+		<title>Atronador tribal</title>
 		<titleShort>Tronador</titleShort>
-		<desc>Hace años, la tribu de NAME tropezó con una bóveda de armas abandonada. Creyendo que las armas eran regalos sagrados, el chamán seleccionó a un niño nacido bajo circunstancias supersticiosas y les asignó el honor de llevar una para defender el pueblo. NAME era es niño.</desc>
+		<desc>Hace años, la tribu de NAME tropezó con una bóveda de armas abandonada. Creyendo que las armas eran regalos sagrados, el chamán seleccionó a un niño nacido bajo circunstancias supersticiosas y les asignó el honor de llevar una para defender a su pueblo. NAME era es niño.</desc>
 	</TribalThunderer25>
 	<MutinousCaptain49>
-		<title>Capitán Mutinous</title>
+		<title>Capitán rebelde</title>
 		<titleShort>Capitán</titleShort>
-		<desc>NAME fue llevado a las estrellas por los esclavistas después de que su tribu fue diezmada en una incursión. A lo largo de los años aprendió el lenguaje de sus captores, eventualmente trabajando para ellos como intérprete y diplomático. El capitán sólo se enteró de la verdadera astucia de NAME cuando la venganza fue tomada por medio de un motín.</desc>
+		<desc>NAME fue llevado a las estrellas por unos esclavistas después de que su tribu fue diezmada en una incursión. A lo largo de los años aprendió el lenguaje de sus captores, y con el tiempo, acabó trabajando para ellos como intérprete y diplomático. El capitán sólo se enteró de la auténtica astucia de NAME cuando se cobró su venganza durante un motín.</desc>
 	</MutinousCaptain49>
 	<CorpBredStudent62>
-		<title>Estudiante criado por una Corporación</title>
+		<title>Estudiante criado por una empresa</title>
 		<titleShort>Estudiantil</titleShort>
-		<desc>NAME fue criado para convertirse en un ejecutivo para la corporación de exploración espacial que poseía su planeta natal. La familia HISCAP había estado trabajando para esa corporación por cuatro generaciones. A los cinco años, se matriculó en la academia corporativa donde aprendió lealtad y a ser despiadado. NAME sobresalió en encontrar soluciones diplomáticas donde otros necesitaba violencia.</desc>
+		<desc>NAME fue criado para convertirse en un ejecutivo para una empresa de exploración espacial que poseía su planeta natal. La familia HISCAP había estado trabajando para esa empresa durante cuatro generaciones. A los cinco años, se matriculó en la academia empresarial donde aprendió a ser leal y despiadado. NAME sobresalió en encontrar soluciones diplomáticas donde otros usaban la violencia.</desc>
 	</CorpBredStudent62>
 	<CorpResearcher37>
-		<title>Investigador de Corporación</title>
+		<title>Investigador empresarial</title>
 		<titleShort>Investigador</titleShort>
-		<desc>NAME fue un destacado investigador de una masiva corporación de exploración espacial.</desc>
+		<desc>NAME fue un destacado investigador de una gigantesca empresa de exploración espacial.</desc>
 	</CorpResearcher37>
 	<EarthColonist29>
-		<title>Colonizador de tierra</title>
+		<title>Colonizador de la tierra</title>
 		<titleShort>Colonizador</titleShort>
 		<desc>NAME nació en la Tierra. Cuando era niño, HECAP fue lanzado al espacio como parte de un programa de colonización interestelar.</desc>
 	</EarthColonist29>
 	<SoleSurvivor46>
-		<title>Único sobreviviente</title>
-		<titleShort>Sobreviviente</titleShort>
-		<desc>NAME vivía en una remota colonia. Cuando los ciempies mecanoides atacaron su casa y mataron a su gente, se convirtió el último superviviente.</desc>
+		<title>Único superviviente</title>
+		<titleShort>Superviviente</titleShort>
+		<desc>NAME vivía en una remota colonia. Cuando los cienpies mecanoides atacaron su hogar y mataron a su gente, se convirtió el único superviviente.</desc>
 	</SoleSurvivor46>
 	<MilitaryTrainee74>
-		<title>Pasante militar</title>
+		<title>Recluta en formación</title>
 		<titleShort>Niño soldado</titleShort>
-		<desc>NAME fue criado en una base militar en el sistema Xennoa. HECAP fue expuesto a diferentes actividades extenuantes y creció siendo fuerte a una edad temprana. HECAP también aprendió de negociación, tácticas médicas y militares.</desc>
+		<desc>NAME fue criado en una base militar en el sistema Xennoa. HECAP fue expuesto a diferentes actividades extenuantes y creció siendo fuerte desde una temprana edad. HECAP también se formó en negociación, tácticas médicas y militares.</desc>
 	</MilitaryTrainee74>
 	<AWOLSoldier46>
-		<title>Soldado de AWOL</title>
+		<title>Soldado desertor</title>
 		<titleShort>Soldado</titleShort>
-		<desc>NAME era un soldado de infantería. Cuando HECAP fue informado de su asignación a la Guerra Xennoa-Zartza, HECAP decidió que no quería ser un soldado. Fue capaz de escapar en un avión espacial militar.</desc>
+		<desc>NAME era un soldado de infantería. Cuando HECAP fue informado de su asignación a la Guerra Xennoa-Zartza, HECAP decidió que no quería ser un soldado. Fue capaz de escapar en una nave espacial militar.</desc>
 	</AWOLSoldier46>
 	<Bookworm75>
 		<title>Ratón de biblioteca</title>
 		<titleShort>Ratón de biblioteca</titleShort>
-		<desc>NAME pasó su juventud en la biblioteca, leyendo todos los libros que pudo acerca de las maravillas técnicas de los viajes espaciales, el ingenio de los pioneros del espacio y los horribles pero fascinantes cuentos de las razas mecanoides. Él prometió que un día vería estas cosas por sí mismo.</desc>
+		<desc>NAME pasó su juventud en la biblioteca, leyendo todos los libros que pudo acerca de las maravillas técnológicas de los viajes espaciales, el ingenio de los pioneros del espacio y los horribles pero fascinantes cuentos de las razas mecanoides. Él prometió que un día vería estas cosas por sí mismo.</desc>
 	</Bookworm75>
 	<Explorer36>
 		<title>Explorador</title>
 		<titleShort>Explorador</titleShort>
-		<desc>NAME viajó de un planeta a otro, reuniendo muestras, historias e investigaciones. Esperaba un día compilar un registro de cada animal, planta, mineral, máquina y dispositivo en el espacio conocido: La Guía Completa del Viajero a los RimWorlds.</desc>
+		<desc>NAME viajó de un planeta a otro, reuniendo muestras, historias e investigaciones. Esperaba un día compilar un registro de cada animal, planta, mineral, máquina y dispositivo en el espacio conocido: La Guía Completa del Viajero a los Mundos Limítrofes.</desc>
 	</Explorer36>
 	<ColonyKid89>
 		<title>Niño colonia</title>
 		<titleShort>Niño colonia</titleShort>
-		<desc>NAME nació siendo hijo de dos médicos en una pequeña colonia. Debido a sus padres, siempre estaba interesado en la ciencia y la medicina. NAME nunca se dio realmente bien con otros niños, y como resultado se volvió retraído e insociable.</desc>
+		<desc>NAME nació siendo el hijo de dos médicos en una pequeña colonia. Debido a sus padres, siempre estuvo interesado por la ciencia y la medicina. NAME nunca se le dio realmente bien estar con otros niños, y como resultado, se volvió retraído e insociable.</desc>
 	</ColonyKid89>
 	<StarshipDoctor78>
 		<title>Doctor de nave espacial</title>
 		<titleShort>Médico</titleShort>
-		<desc>NAME era un doctor en una nave estelar. Era un cirujano brillante y se dedicaba a la investigación por su cuenta. Sin embargo, él era bastante solitario y nunca tuvo un buen comportamiento con los pacientes.</desc>
+		<desc>NAME era un doctor en una nave estelar. Era un cirujano brillante y se dedicaba a la investigación por su cuenta. Sin embargo, era bastante solitario y nunca se portó bien con sus pacientes.</desc>
 	</StarshipDoctor78>
 	<CaravanChild53>
-		<title>Niño caravana</title>
+		<title>Niño de caravana</title>
 		<titleShort>Niño</titleShort>
-		<desc>NAME nació en un buque mercante de MundoUrbano, con una madre emprendedora y un padre ausente. Nacido varón, no le gustaba las cosas de los chicos, y se metia en las cosas de su madre todo el tiempo. Eventualmente, viajó con su madre a un MundoBrillante y gastó sus ahorros en un cuerpo con el que estaba feliz.</desc>
+		<desc>NAME nació en un buque mercante de mundo urbe, con una madre emprendedora y un padre ausente. Nacido varón, no le gustaban las cosas de chicos y se metia en las cosas de su madre todo el tiempo. Con el tiempo, viajó con su madre a un mundo brillante y gastó sus ahorros en un cuerpo con el que estaba feliz.</desc>
 	</CaravanChild53>
 	<BountyHunter28>
-		<title>Cazador de recompensas</title>
+		<title>Cazarrecompensas</title>
 		<titleShort>Cazador</titleShort>
-		<desc>NAME era un cazador de recompensas en un MundoBrillante masivo. HECAP trabajó las asignaciones sensibles para los clientes extremadamente ricos, y era conocido para la ejecución reservada y la discreción total.</desc>
+		<desc>NAME era un cazarrecompensas en un enorme mundo brillante. HECAP realizó importantes encargos para clientes extremadamente ricos y era conocido por sus servicios y total discreción.</desc>
 	</BountyHunter28>
 	<ReEducatedYouth32>
-		<title>Juventud reeducada</title>
+		<title>Joven reeducado</title>
 		<titleShort>Reeducado</titleShort>
-		<desc>NAME vivía en un centro donde el gobierno se preocupaba por la juventud. HECAP fue uno de los muchos niños que fueron tomados de sus padres y forzados en los nuevos programas de educación.</desc>
+		<desc>NAME vivía en un centro donde el gobierno se preocupaba por la juventud. HECAP fue uno de los muchos niños que fueron apartados de sus padres y forzados a recibir los nuevos programas de educación.</desc>
 	</ReEducatedYouth32>
 	<FallenOfficial88>
-		<title>Funcionario caído</title>
-		<titleShort>Oficial</titleShort>
-		<desc>NAME era un funcionario de un gobierno autocrático. Cuando sus superiores le exigieron que participara en atrocidades, NAME renunció y escapó de su mundo natal con nada más que la ropa en su espalda.</desc>
+		<title>Funcionario huído</title>
+		<titleShort>Funcionario</titleShort>
+		<desc>NAME era un funcionario de un gobierno autocrático. Cuando sus superiores le exigieron que participara en atrocidades, NAME renunció y escapó de su mundo natal con nada más que lo que llevaba encima.</desc>
 	</FallenOfficial88>
 	<FarmMechanic40>
 		<title>Mecánico de la granja</title>
@@ -2043,12 +2043,12 @@
 	<OrbitalReservist59>
 		<title>Reservista orbital</title>
 		<titleShort>Reservista</titleShort>
-		<desc>Cuando el gobierno declaró que fortalecería sus defensas militares, NAME fue obligado y entrenado. HECAP estaba estacionado en una base orbital, manejando los sistemas de defensa y, en situaciones extremas, descendiendo en una capsula de escape, a la superficie.</desc>
+		<desc>Cuando el gobierno declaró que fortalecería sus defensas militares, NAME fue reclutado y entrenado. HECAP estaba estacionado en una base orbital, manejando los sistemas de defensa y, en situaciones extremas, descendiendo en una capsula de lanzamiento a la superficie.</desc>
 	</OrbitalReservist59>
 	<AccursedChild43>
 		<title>Niño maldito</title>
 		<titleShort>Maldecido</titleShort>
-		<desc>NAME nació en el pico de un eclipse lunar. Los ancianos lo declararon un niño de la oscuridad lo trajo bajo su cuidado. Toda la infancia de HISCAP se dedicó a estudiar la sabiduría y los rituales de su gente - hasta el día de la llamada.</desc>
+		<desc>NAME nació durante el clímax de un eclipse lunar. Los ancianos lo declararon un niño de la oscuridad lo acogieron bajo su cuidado. Toda la infancia de HISCAP se dedicó a estudiar la sabiduría y los rituales de su gente hasta el día de su llamada.</desc>
 	</AccursedChild43>
 	<ShamanOfShadows30>
 		<title>Chaman de las sombras</title>
@@ -2061,99 +2061,99 @@
 		<desc>NAME estaba fascinado con la astronomía. HECAP pasaba horas contemplando planetas y nebulosas a través de su telescopio. Se atribuye a HECAP el descubrimiento de un pequeño cometa que, años más tarde, golpearía una luna cercana e interrumpiría las operaciones mineras allí.</desc>
 	</AmateurAstronomer76>
 	<StationSecurity1>
-		<title>Seguridad de la estación</title>
+		<title>Seguridad de estación</title>
 		<titleShort>Seguridad</titleShort>
-		<desc>NAME fue comisionado como un agente especial en una red de estaciones espaciales. Allí evitó la trata ilegal de personas. Una vez, el fuego estalló en la estación, y salvó a muchos de las llamas. Desde entonces, ha evitado los incendios.</desc>
+		<desc>NAME fue asignado como un agente especial en una red de estaciones espaciales. Allí evitó la trata ilegal de personas. Una vez un incendio estalló en la estación y salvó a muchos de las llamas. Desde entonces, ha evitado los incendios.</desc>
 	</StationSecurity1>
 	<FarmHand94>
-		<title>Peon de granja</title>
-		<titleShort>Peon de granja</titleShort>
-		<desc>NAME nació en una granja en un pequeño mundo de colonias. Todo fue cuidado por los pocos miembros de la granja, incluyendo a NAME. Esto le ayudó a construir la independencia, el espíritu y un carácter bien redondeado.</desc>
+		<title>Jornalero</title>
+		<titleShort>Jornalero</titleShort>
+		<desc>NAME nació en una granja en un pequeño mundo colonial. Todo era atendido por los pocos miembros de la granja, incluyendo a NAME. Esto le ayudó a formar cierta independencia, espíritu y un carácter equilibrado.</desc>
 	</FarmHand94>
 	<SpaceTrafficker87>
 		<title>Traficante espacial</title>
 		<titleShort>Traficante</titleShort>
-		<desc>NAME descubrió que era el heredero del comercio de armas de su tío lejano. Para proteger el futuro de la empresa se pasó por una amplia formación militar, en caso de cualquier "circunstancia imprevista".</desc>
+		<desc>NAME descubrió que era el heredero de la empresa de armas de un tío lejano. Para proteger el futuro de la empresa, decidió realizar una amplia formación militar en caso de cualquier "circunstancia imprevista".</desc>
 	</SpaceTrafficker87>
 	<EnergeticPopIdol4>
-		<title>Ídolo pop energético</title>
+		<title>Ídolo pop animado</title>
 		<titleShort>Ídolo pop</titleShort>
-		<desc>Priscilla creció en un MundoBrillante, entrenando en artes de estoque y cantando. Ella pasó varios años como un ídolo pop adolescente enérgica. Sin embargo, decidió que la música y las industrias de modelaje no le estaban prestando suficiente atención, por lo que se fue.</desc>
+		<desc>NAME creció en un Mundo brillante, entrenando en  el arte de la esgrima y cantando. Pasó varios años como un ídolo pop adolescente lleno de energía. Sin embargo, decidió que la música y el mundo de los modelos no le estaban prestando suficiente atención, por lo que se fue.</desc>
 	</EnergeticPopIdol4>
 	<PopIdolPirate25>
 		<title>Pirata del ídolo del pop</title>
 		<titleShort>Pirata</titleShort>
-		<desc>NAME y sus fans se establecieron como un equipo de piratas espaciales. Ella invadió las corporaciones por dinero y realizó actuaciones para difundir su nombre. NAME se asustó del fuego cuando un rival quemó su escenario. Confió en sus fans para hacer el trabajo que ella encontró desagradable.</desc>
+		<desc>NAME y sus fans se formaron como un grupo de piratas espaciales. Ella asaltaba empresas por dinero y realizó actuaciones para difundir su nombre. NAME quedó aterrorizada por el fuego cuando un rival quemó su escenario. NAME confió en sus fans para hacer todo el trabajo que encontraba desagradable.</desc>
 	</PopIdolPirate25>
 	<IcePlanetChild56>
-		<title>Niño del planeta de Hielo</title>
+		<title>Niño de planeta gélido</title>
 		<titleShort>Niño hielo</titleShort>
-		<desc>Creciendo en los desechos congelados de una luna oceánica, NAME sólo tenía animales y algunos marineros duramente mordidos, como compañeros. La falta de interacción social le hizo desarrollar interés en la ingeniería - pero nunca desarrolló gran afición por los seres humanos.</desc>
+		<desc>Creciendo en los desechos congelados de una luna oceánica, NAME sólo tenía animales y algunos marineros duramente mordidos, como compañeros. La falta de interacción social le hizo desarrollar interés en la ingeniería - pero nunca desarrolló una gran afición por los seres humanos.</desc>
 	</IcePlanetChild56>
 	<Roboticist87>
 		<title>Expecto en robótica</title>
 		<titleShort>Expecto en robótica</titleShort>
-		<desc>Los marineros murian a menudo en las aguas peligrosas del océano del planeta de NAME. HECAP creó robots para reemplazarlos. Con el tiempo, juntó una pequeña cuadrilla de robots para cumplir sus órdenes. HECAP se hizo competente en mecánica e ingeniería, pero perdió el gusto por el trabajo manual.</desc>
+		<desc>Los marineros morían a menudo en las peligrosas aguas del océano del planeta de NAME. HECAP creó robots para reemplazarlos. Con el tiempo, reunió un pequeño grupo de robots para cumplir sus órdenes. HECAP se hizo competente en mecánica e ingeniería, pero perdió el gusto por el trabajo manual.</desc>
 	</Roboticist87>
 	<ToxicChild59>
 		<title>Niño tóxico</title>
 		<titleShort>Tóxico</titleShort>
-		<desc>Creciendo en un planeta industrial, NAME comenzó a trabajar en una planta química a la edad de seis años. Años de exposición a las toxinas industriales le dejaron mentalmente marcado. Eventualmente voló la instalación y escapó del planeta en una nave de carga robada.</desc>
+		<desc>Creciendo en un planeta industrial, NAME comenzó a trabajar en una planta química a la edad de seis años. Años de exposición a las toxinas industriales le dejaron mentalmente marcado. Tiempo después voló la instalación y escapó del planeta en una nave de carga robada.</desc>
 	</ToxicChild59>
 	<StalwartFarmer91>
-		<title>Granjero</title>
+		<title>Granjero determinado</title>
 		<titleShort>Labrador</titleShort>
-		<desc>Con la granja bajo constante amenaza de bandidos, NAME aprendió a defenderse con el rifle de su padre. HECAP también aprendió cómo construir muros para contener a los animales y depredadores. Una vez trató de pintar un cuadro, de su casa, pero descubrió que sólo podía dibujar garabatos y patos.</desc>
+		<desc>Con la granja bajo constante amenaza de bandidos, NAME aprendió a defenderse con el rifle de su padre. HECAP también aprendió cómo construir muros para contener a los animales y los depredadores. Una vez trató de pintar un cuadro de su casa, pero descubrió que sólo podía dibujar garabatos y patos.</desc>
 	</StalwartFarmer91>
 	<Squire51>
 		<title>Escudero</title>
 		<titleShort>Escudero</titleShort>
-		<desc>Nacido en una familia noble en un mundo medieval, NAME se convirtió en un escudero. El entrenamiento de HISCAP involucró la cetrería, la esgrima y la lucha libre, a menudo hechas con armadura. En la batalla, su trabajo era asegurar que los caballeros fueran cuidados y que su armadura estuviese bien pulida.</desc>
+		<desc>Nacido en una familia noble en un mundo medieval, NAME se convirtió en un escudero. El entrenamiento de HISCAP involucró la cetrería, la esgrima y la lucha libre, a menudo hechas con armadura. En batalla, su trabajo era asegurar que los caballeros fueran atendidos y que su armadura estuviese bien pulida.</desc>
 	</Squire51>
 	<Knight23>
 		<title>Caballero</title>
 		<titleShort>Caballero</titleShort>
-		<desc>Cuando NAME alcanzó a la mayoría de edad, se le dio una espada bendita por un sumo sacerdote. La determinación HISCAP y el enfoque en la batalla lo establecieron como un caballero. A lo largo del tiempo, sus historias fueron contadas en el arte y el folclore. Por humildad, nunca contó sus historias.</desc>
+		<desc>Cuando NAME alcanzó a la mayoría de edad, se le dio una espada bendita por un sumo sacerdote. La determinación HISCAP y su dedicación por el combate lo convirtieron en caballero. A lo largo del tiempo, sus historias fueron contadas en el arte y el folclore. Por humildad, nunca contó sus historias.</desc>
 	</Knight23>
 	<BoyScout19>
 		<title>Niño explorador</title>
 		<titleShort>Explorador</titleShort>
-		<desc>NAME estaba en una tropa de niños exploradores en un MundoMedio. Aprendió muchas habilidades de supervivencia incluyendo cómo prosperar en el exterior y cómo atender a las heridas básicas.</desc>
+		<desc>NAME estaba en una tropa de niños exploradores en un mundo estándar. Aprendió diversas habilidades de supervivencia, incluyendo cómo sobrevivir en el exterior y cómo curar pequeñas heridas.</desc>
 	</BoyScout19>
 	<UrbworldPimp46>
 		<title>Proxeneta de MundoUrbano</title>
 		<titleShort>Proxeneta</titleShort>
-		<desc>Al principio, NAME hizo una pequeña ganancia por la venta de drogas. Luego, se cambió a la venta de mujeres e hizo una fortuna. HECAP desarrolló grandes habilidades con sus puños. También aprendió a arreglar las heridas infligidas a las chicas.</desc>
+		<desc>Al principio, NAME hizo una pequeña fortuna vendiendo drogas. Después se pasó a la trata de blancas e hizo una fortuna. HECAP desarrolló una gran destreza con sus puños. También aprendió a curar las heridas infligidas a las chicas.</desc>
 	</UrbworldPimp46>
 	<ScienceProdigy96>
-		<title>Prodigio de la ciencia</title>
-		<titleShort>prodigio</titleShort>
+		<title>Prodigio científico</title>
+		<titleShort>Prodigio</titleShort>
 		<desc>NAME fue la primera de su clase en química, física, exobiología, astronomía y ópera. Un lamentable accidente de laboratorio la dejó con un miedo mortal al fuego.</desc>
 	</ScienceProdigy96>
 	<ParticlePhysicist6>
-		<title>Físico de partículas</title>
+		<title>Físico atómico</title>
 		<titleShort>Físico</titleShort>
 		<desc>NAME realizó una investigación de vanguardia en física. Quería ayudar a construir un futuro mejor y más pacífico.</desc>
 	</ParticlePhysicist6>
 	<SpeederRacer68>
-		<title>Corredor de 'Speeder'</title>
-		<titleShort>Corredor</titleShort>
-		<desc>Rusty era el hijo de un agricultor de helechos en los altísimos bosques de Khalderia. Él encontró su primer amor en las carreras speeder, silbando dentro y fuera de los masivos toldos y apreciando vistas magníficas de su mundo natal. El infame submundo de las carreras también le obligó a aprender a defenderse con una palabra rápida o un disparo más rápido aún.</desc>
+		<title>Conductor de 'Speeder'</title>
+		<titleShort>conductor</titleShort>
+		<desc>NAME era el hijo de un agricultor de helechos en los altísimos bosques de Khalderia. Él encontró su primer amor en las carreras de speeders, silbando dentro y fuera de los masivos toldos y apreciando vistas magníficas de su mundo natal. El infame submundo de las carreras también le obligó a aprender a defenderse, ya fuera con unas pocas palabras o un veloz disparo.</desc>
 	</SpeederRacer68>
 	<DefenseLawyer2>
 		<title>Abogado defensor</title>
 		<titleShort>Abogado</titleShort>
-		<desc>NAME encontró que podría ganar más dinero con una palabra rápida que con un blaster. Buscando un trabajo donde su lengua de plata podría ser útil, se volvió a la ley. HECAP defendió a menudo a los corredores ilegales de 'speeder' con los cuales él creció.</desc>
+		<desc>NAME encontró que podría ganar más dinero con unas pocas palabras que con un blaster. Buscando un trabajo donde su pico de oro pudiera ser útil, se volvió hacia la ley. HECAP defendió a menudo a los conductores ilegales de 'speeders' con los cuales creció.</desc>
 	</DefenseLawyer2>
 	<MercenaryRecruit61>
 		<title>Recluta mercenario</title>
 		<titleShort>Recluta</titleShort>
-		<desc>Nacido en una larga línea de mercenarios de fuera del mundo, NAME creció en un centro comercial muy transitado. A una edad temprana, fue reclutado en una de las cuadrillas de mercenarios.</desc>
+		<desc>Nacido en una larga familia de mercenarios espaciales, NAME creció en una estación comercial muy transitada. A una edad temprana, fue reclutado para uno de los escuadrones de mercenarios.</desc>
 	</MercenaryRecruit61>
 	<Ranger8>
 		<title>Guardabosques</title>
 		<titleShort>Guardabosques</titleShort>
-		<desc>NAME vivía solo, en la profundidad de un bosque. HECAP protegió a la fauna silvestre contra los cazadores furtivos y aprendió a satisfacer sus propias necesidades materiales sin ayuda externa.</desc>
+		<desc>NAME vivía solo en la profundidad de un bosque. HECAP protegió a la fauna silvestre de cazadores furtivos y aprendió a satisfacer sus propias necesidades materiales sin ayuda externa.</desc>
 	</Ranger8>
 	<YoungPsychologist60>
 		<title>Joven psicólogo</title>
@@ -2161,109 +2161,109 @@
 		<desc>NAME nació y se crió en un mundo estándar pobre, en el asiento delantero del pasajero del coche de su madre. Observando a los peatones y escuchando a los pasajeros del taxi todo el día, pronto se volvió muy bueno para entender el verdadero propósito de alguien.</desc>
 	</YoungPsychologist60>
 	<FactionLeader69>
-		<title>Líder de facciones</title>
+		<title>Líder de facción</title>
 		<titleShort>Líder</titleShort>
-		<desc>A principios de su edad adulta, NAME se encontró rodeado por una pandilla de la baja vida. Por diversión, los reunió y los condujo a una muerte segura. HECAP sabía entonces que tenía el talento para realizar sus ambiciones de liderazgo.</desc>
+		<desc>A principios de su edad adulta, NAME se encontraba rodeado por un grupo de criminales. Por diversión, los agrupó y los llevó a una muerte segura. HECAP sabía entonces que tenía el talento para hacer realidad sus ambiciones de liderazgo.</desc>
 	</FactionLeader69>
 	<LabGrownChild20>
 		<title>Niño cultivado en el laboratorio</title>
 		<titleShort>Cultivado en el laboratorio</titleShort>
-		<desc>NAME nació en un laboratorio como parte de un intento altruista pero fallido de crear una nueva clase de humano. La infancia de HISCAP estuvo llena de libros y tutoría individual. Era torpe, tímido e ingenuo con la verdadera naturaleza de la humanidad.</desc>
+		<desc>NAME nació en un laboratorio como parte de un intento altruista pero fallido de crear una nueva clase de humano. La infancia de HISCAP estuvo llena de libros y tutoría individual. Era torpe, tímido e ingenuo con la verdadera naturaleza humana.</desc>
 	</LabGrownChild20>
 	<CorpResearcher9>
-		<title>Investigador de Corporación</title>
+		<title>Investigador de empresa</title>
 		<titleShort>Investigador</titleShort>
-		<desc>NAME fue vendido a una empresa y puesto a trabajar como un esclavo corporativo que realizaba investigación científica. Incapaz de adaptarse a las políticas sociales de su lugar de trabajo, se enterró en su trabajo y no logró progresar en el escalafón empresarial. Todos los días deseaba quedarse solo.</desc>
+		<desc>NAME fue vendido a una empresa y puesto a trabajar como un esclavo corporativo que realizaba investigación científica. Incapaz de adaptarse a las políticas sociales de su lugar de trabajo, se sumió en su trabajo y no logró progresar en el escalafón empresarial. Todos los días deseaba quedarse solo.</desc>
 	</CorpResearcher9>
 	<TechScholar7>
-		<title>Erudito tecnico</title>
+		<title>Erudito tecnológico</title>
 		<titleShort>Becario</titleShort>
-		<desc>NAME fue un joven estudioso del mundo de la ciencia y la tecnología. HECAP se esforzaba cada día por expandir sus habilidades intelectuales.</desc>
+		<desc>NAME fue un joven estudioso en el mundo de la ciencia y la tecnología. HECAP se esforzaba cada día por expandir sus habilidades intelectuales.</desc>
 	</TechScholar7>
 	<TechnologyDoctor90>
-		<title>Médico de la tecnología</title>
-		<titleShort>Doctor técnica</titleShort>
-		<desc>NAME realizó investigaciones sobre combustibles propulsivos y generación de energía. HECAP amó la investigación de la tecnología, y haciéndolo, esperó mejorar vida humana.</desc>
+		<title>Doctorado en ingeniería</title>
+		<titleShort>Doctorado</titleShort>
+		<desc>NAME realizó investigaciones sobre combustibles de propulsión y generación de energía. HECAP amaba investigar tecnología, y haciéndolo, esperaba mejorar vida humana.</desc>
 	</TechnologyDoctor90>
 	<PitGladiator18>
-		<title>Gladiador en boxes</title>
+		<title>Gladiador esclavo</title>
 		<titleShort>Gladiador</titleShort>
-		<desc>NAME fue esclavizado cuando era un niño y obligado a luchar contra criaturas y otras personas en una arena de lucha clandestina. HECAP mostró una afinidad por el deporte, y finalmente compró su propia libertad. Sin embargo, su tiempo en los pozos nunca le trajo mucha estimulación intelectual.</desc>
+		<desc>NAME fue esclavizado cuando era un niño y obligado a luchar contra criaturas y otras personas en un coliseo de lucha clandestina. HECAP mostró una afinidad por el deporte, y finalmente compró su propia libertad. Sin embargo, el tiempo que pasó en el coliseo nunca estimuló su intelecto.</desc>
 	</PitGladiator18>
 	<PirateTrooper88>
 		<title>Soldado pirata</title>
 		<titleShort>Soldado</titleShort>
-		<desc>NAME se unió a una organización criminal interestelar de renombre, y fue a menudo parte del embarque de asalto durante las redadas de naves estelares. Aunque su experiencia de combate lo convirtió en un buen luchador, la crueldad del trabajo le dejó desilusionado y poco entusiasmado por la interacción social.</desc>
+		<desc>NAME se unió a una organización criminal interestelar de renombre, y fue a menudo formaba parte de la fuerza de asalto al abordar naves estelares durante una incursión. Aunque su experiencia de combate lo convirtió en un buen luchador, la crueldad de su trabajo le dejó desilusionado y poco entusiasmado por la interacción social.</desc>
 	</PirateTrooper88>
 	<FactoryWorker58>
 		<title>Trabajador de fábrica</title>
 		<titleShort>Trabajador</titleShort>
-		<desc>Felix creció en una gran ciudad industrial en un mundo industrial. Puesto que la pobreza era desenfrenada y los alimentos escaseaban, trabajaba por cualquier salario que pudiese obtener. Esta no era una vida fácil, pero Félix nunca se alejó de un duro día de trabajo.</desc>
+		<desc>NAME creció en una gran ciudad en un mundo industrial. Debido a la profunda pobreza y la escasez de alimentos, trabajaba para ganar todo el dinero que pudiera. Esta no era una vida fácil, pero NAME nunca dejó de trabajar duro.</desc>
 	</FactoryWorker58>
 	<CombatMedic16>
 		<title>Medico de combate</title>
 		<titleShort>Médico</titleShort>
-		<desc>Después de que su país de origen entró en una guerra a gran escala, Felix fue reclutado en el ejército como médico de combate. Sus pocos años en las trincheras tratando de mantener a sus compañeros vivos le dio un sentido agudo de primeros auxilios. Perder a muchos amigos le ha hecho estoico y reservado.</desc>
+		<desc>Después de que su país de origen entró en una guerra a gran escala, NAME fue reclutado en el ejército como médico de combate. Sus pocos años en las trincheras tratando de mantener a sus compañeros vivos le condedió un profundo saber sobre primeros auxilios. Perder a muchos amigos le ha hecho estoico y reservado.</desc>
 	</CombatMedic16>
 	<RichBoy51>
 		<title>Chico rico</title>
 		<titleShort>Chico rico</titleShort>
-		<desc>NAME creció en un MundoMedio con padres cariñosos, una linda mascota y mucho dinero, pero sin amigos. HECAP siempre le fue dicho por su padre que 'esos campesinos sólo quieren su dinero'. Por lo tanto, él pasó la mayor parte de su tiempo solo, o luchando contra otros niños.</desc>
+		<desc>NAME creció en un Mundo estándar con unos padres cariñosos, una bonita mascota y mucho dinero, pero sin amigos. El padre de HECAP siempre le dijo que 'los demás sólo quieren su dinero'. Por lo tanto, pasó la mayor parte de su tiempo solo o luchando contra otros niños.</desc>
 	</RichBoy51>
 	<HiredGun99>
-		<title>Asesino a sueldo</title>
-		<titleShort>Asesino a sueldo</titleShort>
-		<desc>NAME siempre quiso demostrar que podría ganarse la vida sin la ayuda de sus padres. HECAP hizo trabajos sombríos que a menudo implicaban apuntar armas a personas inocentes. Finalmente consiguió suficiente dinero para subir a un carguero barato. Descubrió por qué era tan barato, cuando se estrelló.</desc>
+		<title>Mercenario no cualificado</title>
+		<titleShort>Mercenario</titleShort>
+		<desc>NAME siempre quiso demostrar que podría ganarse la vida sin la ayuda de sus padres. HECAP hizo trabajos sombríos que a menudo implicaban apuntar armas a personas inocentes. Finalmente consiguió suficiente dinero para subir a un carguero barato. Descubrió por qué era tan barato cuando se estrelló.</desc>
 	</HiredGun99>
 	<Athlete75>
 		<title>Atleta</title>
 		<titleShort>Atleta</titleShort>
-		<desc>NAME fue atleta profesional a temprana edad. Gracias a sus habilidades, fue capaz de dejar su mundo natal y de inscribirse en una universidad de ciencia y tecnología de MundoBrillante. Debido a su horario exigente y su naturaleza introvertida, se volvió socialmente inepto.</desc>
+		<desc>NAME fue atleta profesional a una temprana edad. Gracias a sus habilidades, fue capaz de abandonar su mundo natal y de inscribirse en una universidad de ciencias y tecnología en un  Mundo brillante. Debido a su horario exigente y su naturaleza introvertida, se volvió socialmente inepto.</desc>
 	</Athlete75>
 	<StilettoAssassin10>
 		<title>Estilete asesino</title>
 		<titleShort>Asesino</titleShort>
-		<desc>Debido a sus habilidades, NAME desarrolló un sentido de superioridad. Con el tiempo, perdió su sentido de la empatía. Ella a menudo se metió en peleas, y descubrió lo fácil que es matar a una persona. Después de darse cuenta de sus talentos, se convirtió en uno de los asesinos más eficientes en el sistema.</desc>
+		<desc>Debido a sus habilidades, NAME desarrolló cierto sentido de superioridad. Con el tiempo, perdió su sentido de la empatía. A menudo se metía en peleas y descubrió lo fácil que es matar a una persona. Después de darse cuenta de sus talentos, se convirtió en uno de los asesinos más eficientes en el sistema.</desc>
 	</StilettoAssassin10>
 	<SoleSurvivor99>
-		<title>Único sobreviviente</title>
-		<titleShort>Sobreviviente</titleShort>
-		<desc>La tribu entera de Hawke fue destruida por una misteriosa enfermedad. Encontrado solo y adoptado por otra banda, nunca se acercó a los demás miembros de la tribu. Prefería mantenerse alejado de su nueva casa, vagando por los bosques y cuidando a los animales.</desc>
+		<title>Único superviviente</title>
+		<titleShort>Superviviente</titleShort>
+		<desc>La tribu de NAME fue totalmente destruida por una misteriosa enfermedad. Hallado solo y adoptado por otra tribu, nunca se acercó a los demás miembros. Prefería mantenerse alejado de su nueva casa, vagando por los bosques y cuidando a los animales.</desc>
 	</SoleSurvivor99>
 	<Hunter7>
 		<title>Cazador</title>
 		<titleShort>Cazador</titleShort>
-		<desc>Hawke era un cazador maestro. Aprendió a rastrear y atrapar a cualquier animal en los lugares más peligrosos, y tenía un profundo conocimiento de muchos métodos ingeniosos para la captura de animales específicos y grandes.</desc>
+		<desc>NAME era un maestro cazador. Aprendió a rastrear y atrapar a cualquier animal en los lugares más peligrosos, y tenía un profundo conocimiento de muchos métodos ingeniosos para la captura de animales específicos y grandes.</desc>
 	</Hunter7>
 	<MechanoidHacker35>
-		<title>Hacker mecanoide</title>
+		<title>Hacker de mecanoides</title>
 		<titleShort>Mecahacker</titleShort>
-		<desc>El único hijo de un respetado inventor mecanoide, NAME tuvo acceso a los materiales para subvertir y modificar las creaciones de padre de HISCAP. HECAP usó medicamentos para aumentar su productividad. Desafortunadamente, los efectos secundarios incluyeron delirios persistentes de ser mecanizado, lo que limitó su vida social.</desc>
+		<desc>Como hijo único de un respetado inventor de mecanoides, NAME tuvo acceso a los materiales necesarios para subyugar y modificar las creaciones de su padre. HECAP usó medicamentos para aumentar su productividad. Desafortunadamente, los efectos secundarios incluyeron delirios persistentes sobre ser mecanizado, lo que limitó su vida social.</desc>
 	</MechanoidHacker35>
 	<BattlefieldTech63>
-		<title>Tecnología de campo de batalla</title>
+		<title>Ingeniero de combate</title>
 		<titleShort>Técnico</titleShort>
-		<desc>NAME había recibido entrenamiento con armas de fuego, pero su trabajo se centró en la adaptación técnica y la manipulación de los mecanoides de combate en el campo de batalla. HECAP desarrolló PTSD después de escapar por poco de un ataque de bomba de fuego primitiva, en un campo de trigo. El ejército lo liberó médicamente del servicio.</desc>
+		<desc>NAME había recibido entrenamiento con armas de fuego, pero su trabajo se centró en la adaptación técnica y la manipulación de mecanoides de combate en el campo de batalla. HECAP desarrolló Estrés post traumático después de escapar por poco de un ataque con una bomba incendiaria primitiva en un campo de trigo. El ejército le concedió una baja médica.</desc>
 	</BattlefieldTech63>
 	<ProjectSubject48>
-		<title>Sujeto de proyecto</title>
+		<title>Miembro de proyecto</title>
 		<titleShort>Tema</titleShort>
-		<desc>NAME fue elegido por los agentes del gobierno para el misterioso "Proyecto Frame". Sin embargo, debido a bloqueos en la memoria, recuerda muy poco acerca de este proyecto o de su verdadera identidad, sólo sabe que habieeron pocos sobrevivientes.</desc>
+		<desc>NAME fue elegido por agentes del gobierno para el misterioso "Proyecto Frame". Sin embargo, debido a lagunas en su memoria, recuerda muy poco acerca de este proyecto o de su verdadera identidad. Sólo sabe que hubo pocos supervivientes.</desc>
 	</ProjectSubject48>
 	<MasterTrader3>
 		<title>Comerciante maestro</title>
 		<titleShort>Comerciante</titleShort>
-		<desc>NAME era un maestro en el comercio. HECAP ganó su apodo ayudando a un pueblo a través de un tiempo difícil.</desc>
+		<desc>NAME era un maestro en el comercio. HECAP consiguió su apodo ayudando a un pueblo en tiempos dificiles.</desc>
 	</MasterTrader3>
 	<HexCellArtist19>
 		<title>Artista de Hexcell</title>
 		<titleShort>Artista</titleShort>
-		<desc>NAME elaboró esculturas de celdas gastadas y las cambió a un museo local por comida. Después de que su popularidad creció, fue abordado por un pirata y secuestrado. El pirata lo mantuvo preso y lo obligó a crear esculturas para la venta.</desc>
+		<desc>NAME elaboró esculturas con materiales sintéticos y las cambió a un museo local por comida. Después de que su popularidad creciera, fue abordado por un pirata y secuestrado. El pirata lo mantuvo preso y lo obligó a crear esculturas para vender.</desc>
 	</HexCellArtist19>
 	<ExoticChef84>
 		<title>Cocinero exótico</title>
 		<titleShort>Cocinero</titleShort>
-		<desc>NAME siempre se ha ido por la borda cuando se trata de comida. HECAP siempre busca ingredientes nuevos y exóticos. La búsqueda de ingredientes de HISCAP lo ha llevado a tener algunos encuentros cercanos con la flora y la fauna local.</desc>
+		<desc>NAME siempre se tiraba la casa por la ventana cuando se trata de comida. HECAP siempre buscaba ingredientes nuevos y exóticos. La búsqueda de ingredientes de HISCAP lo ha llevado a tener algunos encuentros cercanos con la flora y la fauna local.</desc>
 	</ExoticChef84>
 	<PlagueProdigy12>
 		<title>Prodigio de plaga</title>
@@ -2286,7 +2286,7 @@
 		<desc>NAME una vez pasó diez años atrapado solo en un planeta alienígena. HECAP se adaptó rápidamente al entorno local y aprendió a comunicarse con sus enemigos locales. Este largo período le dejó sin amigos íntimos. El corazón de HISCAP es sensible, pero aprendió a ocultar sus emociones muy bien.</desc>
 	</SpaceExplorer81>
 	<UrbworldUrchin13>
-		<title>Pilluelo de MundoUrbano</title>
+		<title>Pilluelo de Mundo Urbe</title>
 		<titleShort>Pilluelo</titleShort>
 		<desc>NAME nació en los barrios más oscuros de su mundo urbe natal. La negligenciada por parte de su madre la llevó a aprender a sobrevivir sola, luchando por cada pedazo de comida. Más tarde, como su talento superó al de sus compañeros, ella ascendió de las profundidades a las calles a la superficie y dejó a su madre detrás.</desc>
 	</UrbworldUrchin13>
