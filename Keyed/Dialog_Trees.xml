@@ -9,7 +9,7 @@
 
   <!-- gift offer -->
   <OfferGift>Ofrecer regalo</OfferGift>
-  <NeedSilverLaunchable>necesitas {0} plata cerca de la baliza órbital</NeedSilverLaunchable>
+  <NeedSilverLaunchable>Necesitas {0} plata cerca de la baliza órbital</NeedSilverLaunchable>
   <NotEnoughSilver>No hay suficiente plata.</NotEnoughSilver>
   <SilverForGoodwill>{0} plata como muestra de buena voluntad {1}</SilverForGoodwill>
   <SilverGiftSent>{0} se muestra agradecido.\n\n(Predisposición mejorada en {1}).</SilverGiftSent>
